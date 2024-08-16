@@ -1,3 +1,8 @@
+---
+layout: page
+title: Dine Divvy Privacy Policy
+---
+
 # Dine Divvy Privacy Policy
 
 Last Updated: 2024-08-16
