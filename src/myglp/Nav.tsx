@@ -12,8 +12,6 @@ export default function Nav() {
         <a href="#">FAQ</a>
         <a href="#">About</a>
         <a href="#">Support</a>
-        <a href="privacy">Privacy Policy</a>
-        <a href="terms">Terms of Use</a>
       </section>
     </nav>
   );
