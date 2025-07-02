@@ -2,33 +2,22 @@ import Image from "next/image";
 import { Button } from "./Button";
 import styles from "./Hero.module.css";
 import gridStyles from "../../styles/grid.module.css";
+import { AppleIcon } from "./Icons";
+
 
 function HeroContent() {
   return (
     <div className={styles.heroContent}>
       <div className={styles.textBlock}>
         <p className={`${styles.subheading} ${styles.darkSubheading}`}>
-          Mental Health App
+          GLP Medication Tracking
         </p>
-        <h1 className={styles.heading}>
-          Find Your Calm
-          <br />
-          Master Your Mind
-          <br />
-          Live Your Best Life
-        </h1>
-        <p className={`${styles.description} ${styles.darkDescription}`}>
-          Calmia is the all-in-one mental wellness app that empowers you to
-          track your progress, connect with experts, and cultivate lasting
-          inner peace. Your journey to a healthier mind starts here.
-        </p>
+        <h1 className={styles.heading}>A GLP tracking app that you'll love using</h1>
+        <p className={`${styles.description} ${styles.darkDescription}`}>Stay on top of your medication, monitor your progress, and improve your health with MyGLP.</p>
       </div>
       <div className={styles.buttonGroup}>
         <Button href="#" variant="primary">
-          Download on the App Store
-        </Button>
-        <Button href="#" variant="secondary">
-          Play video
+           <AppleIcon width={24} /> Download on the App Store
         </Button>
       </div>
     </div>

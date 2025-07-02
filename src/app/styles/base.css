@@ -15,7 +15,7 @@ html {
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: "SF Pro Display", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

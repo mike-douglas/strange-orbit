@@ -4,7 +4,6 @@
   width: 100%;
   padding-top: 3rem; /* py-12 */
   padding-bottom: 3rem; /* py-12 */
-  border-top: 1px solid #e2e8f0; /* border-t */
 }
 
 @media (min-width: 768px) {
