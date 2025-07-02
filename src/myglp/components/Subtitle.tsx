@@ -1,7 +1,9 @@
 
+import styles from './Subtitle.module.css';
+
 const Subtitle = () => {
   return (
-    <p>Manage your GLP-1 medication, track progress, and achieve your health goals.</p>
+    <p className={styles.subtitle}>Manage your GLP-1 medication, track progress, and achieve your health goals.</p>
   );
 };
 

@@ -1,5 +1,5 @@
 
-import '../myglp.css';
+import styles from './FeatureItem.module.css';
 
 interface FeatureItemProps {
   title: string;
@@ -8,7 +8,7 @@ interface FeatureItemProps {
 
 const FeatureItem = ({ title, description }: FeatureItemProps) => {
   return (
-    <div className="featureItem">
+    <div className={styles.featureItem}>
       <h3>{title}</h3>
       <p>{description}</p>
     </div>

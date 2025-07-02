@@ -1,0 +1,13 @@
+.heroSection {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--myglp-grid-gap);
+  align-items: center;
+  padding: var(--myglp-padding-lg);
+}
+
+.heroContent {
+  display: flex;
+  flex-direction: column;
+  gap: var(--myglp-padding-md);
+}

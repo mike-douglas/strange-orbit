@@ -1,0 +1,14 @@
+.featureItem {
+  text-align: center;
+  padding: var(--myglp-padding-md);
+  border-radius: 8px;
+}
+
+.featureItem h3 {
+  margin-bottom: var(--myglp-padding-sm);
+  font-size: 1.5em;
+}
+
+.featureItem p {
+  font-size: 1em;
+}
