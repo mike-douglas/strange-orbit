@@ -1,0 +1,12 @@
+.navGrid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  padding: var(--padding-sm) 0;
+}
+
+.navLinks {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: var(--grid-gap);
+}

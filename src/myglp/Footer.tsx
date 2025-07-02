@@ -1,15 +1,15 @@
 import allStyles from './all.module.css';
 import styles from './Footer.module.css';
 
+import SiteFooter from '../strange-orbit/Footer';
+
 const Footer = () => (
   <section className={styles.footerContainer}>
     <section className={allStyles.wideContainer}>
       <div className={styles.footerGrid}>
+        <SiteFooter />
         <div>
-        Info About Strange Orbit LLC
-        </div>
-        <div>
-        Info for the app
+        
         </div>
       </div>     
     </section>
