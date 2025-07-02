@@ -1,9 +1,15 @@
+import Hero from "./components/Hero";
+import Features from "./components/Features";
+import Testimonials from "./components/Testimonials";
+import Footer from "./components/Footer";
 
 export default function MyGlpPage() {
   return (
     <main>
-      <h1>MyGLP</h1>
-      <p>This is the landing page for the MyGLP app.</p>
+      <Hero />
+      <Features />
+      <Testimonials />
+      <Footer />
     </main>
   );
 }

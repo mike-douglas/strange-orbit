@@ -10,6 +10,16 @@ const nextConfig: NextConfig = {
   // Configure `pageExtensions` to include MDX files
   pageExtensions: ['js', 'jsx', 'mdx', 'ts', 'tsx'],
   // Optionally, add any other Next.js config below
+  webpack: (config) => {
+    config.watchOptions.ignored = [
+      ...(Array.isArray(config.watchOptions.ignored) ? config.watchOptions.ignored : []),
+      /inspo/,
+    ];
+    return config;
+  },
+  images: {
+    unoptimized: true,
+  },
 }
  
 const withMDX = createMDX({
