@@ -5,22 +5,22 @@
 
 .downloadSection h2 {
   margin-bottom: var(--padding-sm);
-  font-size: 3em;
+  font-size: 3rem;
   font-weight: 600;
 }
 
 .downloadSection p {
   margin-bottom: var(--padding-md);
-  font-size: 1.2em;
-  line-height: 1.5em;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
 }
 
 @media (max-width: 768px) {
   .downloadSection h2 {
-    font-size: 2.0em;
+    font-size: 2.0rem;
   }
 
   .downloadSection p {
-    font-size: 1.0em;
+    font-size: 1.0rem;
   }
 }

@@ -1,5 +1,6 @@
 .featureContainer {
-  padding: var(--padding-md) 0 ;
+  padding: var(--padding-md) 0;
+  background: var(--background-feature-section);
 }
 
 .featureGrid {

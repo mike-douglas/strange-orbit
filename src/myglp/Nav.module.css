@@ -17,7 +17,7 @@
   .navLinks {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    font-size: 0.85em;
+    font-size: 0.85rem;
     gap: var(--grid-gap);
   }
 }

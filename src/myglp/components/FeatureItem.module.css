@@ -4,22 +4,22 @@
 
 .featureItem h3 {
   margin-bottom: var(--padding-sm);
-  font-size: 1.5em;
+  font-size: 1.5rem;
   font-weight: 600;
 }
 
 .featureItem p {
-  font-size: 1.25em;
-  line-height: 1.5em;
+  font-size: 1.25rem;
+  line-height: 1.5rem;
   min-height: 100px;
 }
 
 @media (max-width: 768px) {
   .featureItem h3 {
-    font-size: 1.25em;
+    font-size: 1.25rem;
   }
 
   .featureItem p {
-    font-size: 1.0em;
+    font-size: 1.0rem;
   }
 }

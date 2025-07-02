@@ -6,7 +6,7 @@ export default function Features() {
   return (
     <section className={styles.featureContainer}>
       <section className={allStyles.wideContainer}>
-        <h2><span className={allStyles.sectionHeader}>Key Features</span></h2>
+        <h2><span className={allStyles.sectionHeader}>Main Features</span></h2>
         <div className={styles.featureGrid}>
           <FeatureItem
             title="Medication Tracking"

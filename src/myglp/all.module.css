@@ -2,20 +2,20 @@
   color: var(--color-white);
   padding: var(--padding-xs) var(--padding-sm);
   background-color: var(--color-primary);
-  font-size: 0.80em;
+  font-size: 0.80rem;
   font-weight: 600;
   border-radius: 9999px;
   margin: 0 var(--padding-sm);
 }
 
 .heroContainer {
-  max-width: 60em;
+  max-width: 60rem;
   margin: 0 auto;
   padding: 0 var(--myglp-padding-md); 
 }
 
 .wideContainer {
-  max-width: 80em;
+  max-width: 80rem;
   margin: 0 auto;
   padding: 0 var(--myglp-padding-md);
 }
