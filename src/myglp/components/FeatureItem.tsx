@@ -1,4 +1,6 @@
 
+import '../myglp.css';
+
 interface FeatureItemProps {
   title: string;
   description: string;
@@ -6,7 +8,7 @@ interface FeatureItemProps {
 
 const FeatureItem = ({ title, description }: FeatureItemProps) => {
   return (
-    <div className={styles.featureItem}>
+    <div className="featureItem">
       <h3>{title}</h3>
       <p>{description}</p>
     </div>

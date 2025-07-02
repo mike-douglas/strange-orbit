@@ -164,7 +164,6 @@ body {
 .featureItem {
   text-align: center;
   padding: 20px;
-  border: 1px solid #eee;
   border-radius: 8px;
 }
 
@@ -175,14 +174,12 @@ body {
 
 .featureItem p {
   font-size: 1em;
-  color: #555;
 }
 
 /* Download Section Layout */
 .downloadSection {
   padding: 40px;
   text-align: center;
-  background-color: #f9f9f9;
 }
 
 .downloadSection h2 {
@@ -193,5 +190,4 @@ body {
 .downloadSection p {
   margin-bottom: 30px;
   font-size: 1.2em;
-  color: #555;
 }

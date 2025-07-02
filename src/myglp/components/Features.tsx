@@ -1,12 +1,12 @@
 
-import styles from '../myglp.module.css';
+import '../myglp.css';
 import FeatureItem from './FeatureItem';
 
 const Features = () => {
   return (
-    <section className={styles.featuresSection}>
+    <section className="featuresSection">
       <h2>Key Features</h2>
-      <div className={styles.featureGrid}>
+      <div className="featureGrid">
         <FeatureItem
           title="Medication Tracking"
           description="Easily log your GLP-1 medication doses and schedules."
