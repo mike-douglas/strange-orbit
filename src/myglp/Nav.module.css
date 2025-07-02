@@ -10,6 +10,7 @@
   justify-content: flex-end;
   align-items: center;
   gap: var(--grid-gap);
+  font-weight: 600;
 }
 
 @media (max-width: 768px) {

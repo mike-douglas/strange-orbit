@@ -2,7 +2,7 @@ import allStyles from './all.module.css';
 import styles from './Download.module.css';
 import AppStoreButton from './components/AppStoreButton';
 
-const Download = () => {
+export default function Download() {
   return (
     <section className={allStyles.wideContainer + ' ' + styles.downloadSection}>
       <h2>Ready to simplify your health journey?</h2>
@@ -10,6 +10,4 @@ const Download = () => {
       <AppStoreButton />
     </section>
   );
-};
-
-export default Download;
+}

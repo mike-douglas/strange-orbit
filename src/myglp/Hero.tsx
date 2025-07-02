@@ -6,7 +6,7 @@ import Subtitle from './components/Subtitle';
 import HeroImage from './components/HeroImage';
 import AppStoreButton from './components/AppStoreButton';
 
-const Hero = () => {
+export default function Hero() {
   return (
     <section className={allStyles.heroContainer + ' ' + styles.heroSection}>
       <div className={styles.heroContent}>
@@ -17,6 +17,4 @@ const Hero = () => {
       <HeroImage />
     </section>
   );
-};
-
-export default Hero;
+}

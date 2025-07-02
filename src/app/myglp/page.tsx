@@ -4,7 +4,7 @@ import Features from '../../myglp/Features';
 import Download from '../../myglp/Download';
 import Footer from '../../myglp/Footer';
 
-const MyGLPPage = () => {
+export default function MyGLPPage() {
   return (
     <main>
       <Nav />
@@ -14,6 +14,4 @@ const MyGLPPage = () => {
       <Footer />
     </main>
   );
-};
-
-export default MyGLPPage;
+}

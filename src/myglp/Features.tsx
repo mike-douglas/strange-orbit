@@ -2,7 +2,7 @@ import styles from './Features.module.css';
 import allStyles from './all.module.css';
 import FeatureItem from './components/FeatureItem';
 
-const Features = () => {
+export default function Features() {
   return (
     <section className={styles.featureContainer}>
       <section className={allStyles.wideContainer}>
@@ -24,6 +24,4 @@ const Features = () => {
       </section>
     </section>
   );
-};
-
-export default Features;
+}
