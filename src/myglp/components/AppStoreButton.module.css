@@ -13,3 +13,9 @@
   border-radius: 9999px; /* This creates the capsule shape */
   transition: background-color 0.2s ease-in-out;
 }
+
+@media (max-width: 768px) {
+  .button {
+    font-size: 1.0em;
+  }
+}

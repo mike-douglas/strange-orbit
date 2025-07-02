@@ -13,3 +13,13 @@
   line-height: 1.5em;
   min-height: 100px;
 }
+
+@media (max-width: 768px) {
+  .featureItem h3 {
+    font-size: 1.25em;
+  }
+
+  .featureItem p {
+    font-size: 1.0em;
+  }
+}

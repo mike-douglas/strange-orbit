@@ -3,3 +3,9 @@
   line-height: 1.5;
   color: #555;
 }
+
+@media (max-width: 768px) {
+  .subtitle {
+    font-size: 1.0em;
+  }
+}

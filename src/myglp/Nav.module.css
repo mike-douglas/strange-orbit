@@ -1,7 +1,8 @@
 .navGrid {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 1fr 3fr;
   padding: var(--padding-sm) 0;
+  gap: var(--grid-gap);
 }
 
 .navLinks {
@@ -9,4 +10,13 @@
   justify-content: flex-end;
   align-items: center;
   gap: var(--grid-gap);
+}
+
+@media (max-width: 768px) {
+  .navLinks {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-size: 0.85em;
+    gap: var(--grid-gap);
+  }
 }
