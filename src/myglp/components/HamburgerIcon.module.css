@@ -1,0 +1,20 @@
+.hamburgerButton {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  color: inherit;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hamburgerIcon {
+  background: var(--color-primary);
+  border-radius: 999px;
+  color: var(--color-white);
+  width: 48px;
+  height: 48px;
+  padding: 12px;
+}

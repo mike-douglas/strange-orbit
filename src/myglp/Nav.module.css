@@ -19,13 +19,6 @@
 }
 
 
-.mobileButton {
-  height: 75px;
-  border: 0;
-  background-color: transparent;
-  cursor: pointer;
-}
-
 @media (max-width: 768px) {
   .navGrid {
     position: relative;

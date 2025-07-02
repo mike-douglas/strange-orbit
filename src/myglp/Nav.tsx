@@ -5,6 +5,8 @@ import styles from './Nav.module.css';
 import Link from 'next/link';
 
 import AppIcon from './components/AppIcon';
+import HamburgerIcon from './components/HamburgerIcon';
+
 import { useState } from 'react';
 
 export default function Nav() {
@@ -30,7 +32,7 @@ export default function Nav() {
     <nav className={allStyles.heroContainer + ' ' + styles.navGrid}>
       <AppIcon />
       <section className={styles.mobileButtonContainer}>
-        <button className={styles.mobileButton} onClick={toggleNav}>Menu</button>
+        <HamburgerIcon isOpen={isNavOpen} onClick={toggleNav} />
       </section>
       <section className={`${styles.navLinks} ${isNavOpen ? styles.navLinksOpen : ''}`}>
         <Link href="#features" scroll={false} onClick={(e) => scrollTo(e, 'features')}>
