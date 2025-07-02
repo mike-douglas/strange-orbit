@@ -1,9 +1,13 @@
 import allStyles from './all.module.css';
 
+import Header from './components/Header';
+
 export default function FAQ() {
   return (
-    <section id="faq" className={allStyles.wideContainer}>
-      <h2>Questions</h2>
-    </section>
+    <div id="faq">
+      <section className={allStyles.wideContainer}>
+        <Header title="Questions" />
+      </section>
+    </div>
   )
 }

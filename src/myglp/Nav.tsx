@@ -30,7 +30,7 @@ export default function Nav() {
 
   return (
     <nav className={allStyles.heroContainer + ' ' + styles.navGrid}>
-      <AppIcon />
+      <section className={styles.icon}><AppIcon /> MyGLP</section>
       <section className={styles.mobileButtonContainer}>
         <HamburgerIcon isOpen={isNavOpen} onClick={toggleNav} />
       </section>

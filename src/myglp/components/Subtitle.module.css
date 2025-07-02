@@ -2,9 +2,3 @@
   font-size: 1.5rem;
   line-height: 1.5;
 }
-
-@media (max-width: 768px) {
-  .subtitle {
-    font-size: 1.0rem;
-  }
-}

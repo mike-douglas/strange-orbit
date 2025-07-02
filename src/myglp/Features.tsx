@@ -1,12 +1,14 @@
 import styles from './Features.module.css';
 import allStyles from './all.module.css';
+
 import FeatureItem from './components/FeatureItem';
+import Header from './components/Header';
 
 export default function Features() {
   return (
-    <section id="features" className={styles.featureContainer}>
+    <div id="features" className={styles.featureContainer}>
       <section className={allStyles.wideContainer}>
-        <h2><span className={allStyles.sectionHeader}>Main Features</span></h2>
+        <Header title="Features" />
         <div className={styles.featureGrid}>
           <FeatureItem
             title="Medication Tracking"
@@ -22,6 +24,6 @@ export default function Features() {
           />
         </div>
       </section>
-    </section>
+    </div>
   );
 }

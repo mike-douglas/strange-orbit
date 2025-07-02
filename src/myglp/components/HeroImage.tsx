@@ -4,6 +4,6 @@ import styles from './HeroImage.module.css';
 
 export default function HeroImage() {
   return (
-    <Image src="https://placehold.co/294x638" alt="MyGLP App Screenshot" className={styles.heroImage} width={294} height={638} />
+    <Image src="/Home-Light.png" alt="MyGLP App Screenshot" className={styles.heroImage} width={295} height={593} />
   );
 }

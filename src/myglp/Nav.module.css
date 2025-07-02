@@ -1,3 +1,12 @@
+.icon {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  gap: var(--grid-gap-sm);
+}
+
 .navGrid {
   display: grid;
   grid-template-columns: 1fr 3fr;
@@ -25,7 +34,8 @@
   }
 
   .mobileButtonContainer {
-    display: block;
+    display: flex;
+    justify-content: flex-end;
   }
 
   .navLinks {

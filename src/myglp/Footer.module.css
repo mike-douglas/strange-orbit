@@ -12,3 +12,10 @@
 .footerGrid * {
   padding: 0 var(--padding-md);
 }
+
+@media (max-width: 768px) {
+  .footerGrid {
+    grid-template-columns: 1fr;
+    padding: 0;
+  }
+}

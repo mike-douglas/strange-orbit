@@ -6,6 +6,5 @@
 .featureGrid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  margin: var(--padding-md) 0;
   gap: var(--padding-md);
 }

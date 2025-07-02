@@ -5,7 +5,7 @@
   --background-feature-section: #fafafa;
 
   --color-white: #ffffff;
-  --color-primary: #0070f3;
+  --color-primary: #00ACAC;
 
   --padding-xs: 0.5em;
   --padding-sm: 1em;
@@ -13,6 +13,7 @@
   --padding-lg: 3em;
 
   --grid-gap: 1.5em;
+  --grid-gap-sm: 0.5em;
   --grid-columns: 12;
 }
 

@@ -9,9 +9,6 @@ export default function Footer() {
       <section className={allStyles.wideContainer}>
         <div className={styles.footerGrid}>
           <SiteFooter />
-          <div>
-          
-          </div>
         </div>     
       </section>
     </section>

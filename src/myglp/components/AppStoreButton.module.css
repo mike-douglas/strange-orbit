@@ -17,9 +17,3 @@
 .icon {
   margin-top: -0.25rem;
 }
-
-@media (max-width: 768px) {
-  .button {
-    font-size: 1.0rem;
-  }
-}
