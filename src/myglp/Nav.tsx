@@ -7,7 +7,7 @@ import Link from 'next/link';
 import AppIcon from './components/AppIcon';
 
 export default function Nav() {
-  const handleClick = (e: React.MouseEvent<HTMLAnchorElement, MouseEvent>, id: string) => {
+  const scrollTo = (e: React.MouseEvent<HTMLAnchorElement, MouseEvent>, id: string) => {
     e.preventDefault();
     const element = document.getElementById(id);
     if (element) {
@@ -21,17 +21,18 @@ export default function Nav() {
   return (
     <nav className={allStyles.heroContainer + ' ' + styles.navGrid}>
       <AppIcon />
+      <button className={styles.mobileButton}>Menu</button>
       <section className={styles.navLinks}>
-        <Link href="#features" scroll={false} onClick={(e) => handleClick(e, 'features')}>
+        <Link href="#features" scroll={false} onClick={(e) => scrollTo(e, 'features')}>
           Features
         </Link>
-        <Link href="#faq" scroll={false} onClick={(e) => handleClick(e, 'faq')}>
+        <Link href="#faq" scroll={false} onClick={(e) => scrollTo(e, 'faq')}>
           FAQ
         </Link>
-        <Link href="#about" scroll={false} onClick={(e) => handleClick(e, 'about')}>
+        <Link href="#about" scroll={false} onClick={(e) => scrollTo(e, 'about')}>
           About
         </Link>
-        <Link href="#support" scroll={false} onClick={(e) => handleClick(e, 'support')}>
+        <Link href="#support" scroll={false} onClick={(e) => scrollTo(e, 'support')}>
           Support
         </Link>
       </section>

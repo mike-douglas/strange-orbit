@@ -13,14 +13,30 @@
   font-weight: 600;
 }
 
+.mobileButton {
+  display: none;
+}
+
 @media (max-width: 768px) {
   .navGrid {
+    grid-template-columns: 1fr;
     padding-left: var(--padding-sm);
   }
 
+  .mobileButton {
+    position: absolute;
+    display: inline-block;
+    right: 0;
+    height: 75px;
+  }
+
   .navLinks {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: var(--grid-gap);
+    display: block;
+  }
+
+  .navLinks a {
+    display: block;
+    text-align: right;
+    width: 100%;
   }
 }
