@@ -4,7 +4,7 @@ import FeatureItem from './components/FeatureItem';
 
 export default function Features() {
   return (
-    <section className={styles.featureContainer}>
+    <section id="features" className={styles.featureContainer}>
       <section className={allStyles.wideContainer}>
         <h2><span className={allStyles.sectionHeader}>Main Features</span></h2>
         <div className={styles.featureGrid}>

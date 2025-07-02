@@ -14,6 +14,10 @@
 }
 
 @media (max-width: 768px) {
+  .navGrid {
+    padding: 0;
+  }
+
   .navLinks {
     display: grid;
     grid-template-columns: 1fr 1fr;
