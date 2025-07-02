@@ -1,12 +1,16 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --color-white: #ffffff;
+  
   --myglp-padding-sm: 16px;
   --myglp-padding-md: 32px;
   --myglp-padding-lg: 64px;
 
   --myglp-grid-gap: 20px;
   --myglp-grid-columns: 12;
+
+  --myglp-color-primary: #0070f3;
 }
 
 html,

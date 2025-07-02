@@ -6,7 +6,7 @@ import AppStoreButton from './components/AppStoreButton';
 
 const Hero = () => {
   return (
-    <section className="heroSection">
+    <section className={styles.heroSection}>
       <div className={styles.heroContent}>
         <Title />
         <Subtitle />

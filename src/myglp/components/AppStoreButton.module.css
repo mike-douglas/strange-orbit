@@ -1,11 +1,14 @@
 .button {
-  background-color: #007bff;
-  color: white;
+  background-color: var(--myglp-color-primary);
+  color: var(--color-white);
   text-decoration: none;
-  font-size: 1em;
+  font-size: 1.0em;
   border: none;
   cursor: pointer;
-  display: flex;
+  display: inline-flex; /* Use inline-flex to not take up full width */
   align-items: center;
-  gap: 1em; /* Space between icon and text */
+  padding: 1.0em 1.5em 1.0em 1.5em;
+  gap: 1.0em; /* Space between icon and text */
+  border-radius: 9999px; /* This creates the capsule shape */
+  transition: background-color 0.2s ease-in-out;
 }
