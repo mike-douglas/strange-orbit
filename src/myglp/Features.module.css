@@ -1,0 +1,11 @@
+.featureContainer {
+  background: #f3f3f3;
+  padding: var(--padding-md) 0 ;
+}
+
+.featureGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  margin: var(--padding-md) 0;
+  gap: var(--padding-md);
+}

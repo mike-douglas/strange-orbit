@@ -1,8 +1,8 @@
-import styles from './MyGLPLayout.module.css';
+import "./globals.css";
 
 export default function MyGLPLayout({ children }: { children: React.ReactNode }) {
   return (
-    <main className={styles.container}>
+    <main>
       {children}
     </main>
   );

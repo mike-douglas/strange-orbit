@@ -1,0 +1,15 @@
+.footerContainer {
+  background: gray;
+  padding: var(--padding-md) 0;
+}
+
+.footerGrid {
+  display: grid;
+  grid-template-columns: minmax(10em, 1fr) 2fr;
+  gap: var(--padding-md);
+  min-height: 200px;
+}
+
+.footerGrid * {
+  padding: 0 var(--padding-md);
+}

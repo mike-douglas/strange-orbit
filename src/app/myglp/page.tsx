@@ -1,7 +1,7 @@
-
 import Hero from '../../myglp/Hero';
-import Features from '../../myglp/components/Features';
-import Download from '../../myglp/components/Download';
+import Features from '../../myglp/Features';
+import Download from '../../myglp/Download';
+import Footer from '../../myglp/Footer';
 
 const MyGLPPage = () => {
   return (
@@ -9,6 +9,7 @@ const MyGLPPage = () => {
       <Hero />
       <Features />
       <Download />
+      <Footer />
     </main>
   );
 };

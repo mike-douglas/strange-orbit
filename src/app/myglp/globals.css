@@ -3,14 +3,15 @@
   --foreground: #171717;
   --color-white: #ffffff;
   
-  --myglp-padding-sm: 16px;
-  --myglp-padding-md: 32px;
-  --myglp-padding-lg: 64px;
+  --padding-xs: 0.5em;
+  --padding-sm: 1em;
+  --padding-md: 2em;
+  --padding-lg: 3em;
 
-  --myglp-grid-gap: 20px;
-  --myglp-grid-columns: 12;
+  --grid-gap: 1.5em;
+  --grid-columns: 12;
 
-  --myglp-color-primary: #0070f3;
+  --color-primary: #0070f3;
 }
 
 html,
@@ -88,10 +89,3 @@ body {
   font-family: "SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
-/* Basic Grid Setup (example) */
-.myglp-container {
-  display: grid;
-  grid-template-columns: repeat(var(--myglp-grid-columns), 1fr);
-  gap: var(--myglp-grid-gap);
-  padding: var(--myglp-padding-md);
-}

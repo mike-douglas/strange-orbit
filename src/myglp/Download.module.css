@@ -1,0 +1,15 @@
+.downloadSection {
+  padding: var(--padding-lg);
+  text-align: center;
+}
+
+.downloadSection h2 {
+  margin-bottom: var(--padding-sm);
+  font-size: 3em;
+  font-weight: 600;
+}
+
+.downloadSection p {
+  margin-bottom: var(--padding-md);
+  font-size: 1.2em;
+}

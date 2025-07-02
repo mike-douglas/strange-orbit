@@ -1,14 +1,15 @@
 .featureItem {
   text-align: center;
-  padding: var(--myglp-padding-md);
-  border-radius: 8px;
 }
 
 .featureItem h3 {
-  margin-bottom: var(--myglp-padding-sm);
+  margin-bottom: var(--padding-sm);
   font-size: 1.5em;
+  font-weight: 600;
 }
 
 .featureItem p {
-  font-size: 1em;
+  font-size: 1.25em;
+  line-height: 1.5em;
+  min-height: 100px;
 }
