@@ -11,3 +11,14 @@
   flex-direction: column;
   gap: var(--padding-md);
 }
+
+@media (max-width: 768px) {
+  .heroSection {
+    grid-template-columns: 1fr;
+    padding: var(--padding-sm);
+  }
+
+  .heroContent {
+    text-align: center;
+  }
+}

@@ -5,6 +5,7 @@
   font-size: 0.80em;
   font-weight: 600;
   border-radius: 9999px;
+  margin: 0 var(--padding-sm);
 }
 
 .heroContainer {
