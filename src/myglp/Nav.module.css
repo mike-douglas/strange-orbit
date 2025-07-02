@@ -15,7 +15,7 @@
 
 @media (max-width: 768px) {
   .navGrid {
-    padding: 0;
+    padding-left: var(--padding-sm);
   }
 
   .navLinks {
