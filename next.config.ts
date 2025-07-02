@@ -5,6 +5,8 @@ import remarkMdxFrontmatter from 'remark-mdx-frontmatter'
  
 /** @type {import('next').NextConfig} */
 const nextConfig: NextConfig = {
+  basePath: '/strange-orbit',
+  output: 'export',
   // Configure `pageExtensions` to include MDX files
   pageExtensions: ['js', 'jsx', 'mdx', 'ts', 'tsx'],
   // Optionally, add any other Next.js config below
