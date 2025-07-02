@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { GlobeIcon } from "./Icons";
 import styles from "./Footer.module.css";
-import gridStyles from "../styles/grid.module.css";
+import gridStyles from "../../styles/grid.module.css";
 
 export default function Footer() {
   return (

@@ -1,7 +1,7 @@
 import { MountainIcon } from "./Icons";
 import { Button } from "./Button";
 import styles from "./Features.module.css";
-import gridStyles from "../styles/grid.module.css";
+import gridStyles from "../../styles/grid.module.css";
 
 export default function Features() {
   return (

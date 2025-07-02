@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Button } from "./Button";
 import styles from "./Hero.module.css";
-import gridStyles from "../styles/grid.module.css";
+import gridStyles from "../../styles/grid.module.css";
 
 function HeroContent() {
   return (
