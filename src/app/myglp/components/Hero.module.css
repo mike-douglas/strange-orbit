@@ -1,0 +1,137 @@
+/* src/app/myglp/components/Hero.module.css */
+
+.heroSection {
+  width: 100%;
+  padding-top: 3rem; /* py-12 */
+  padding-bottom: 3rem; /* py-12 */
+}
+
+@media (min-width: 768px) {
+  .heroSection {
+    padding-top: 6rem; /* md:py-24 */
+    padding-bottom: 6rem; /* md:py-24 */
+  }
+}
+
+@media (min-width: 1024px) {
+  .heroSection {
+    padding-top: 8rem; /* lg:py-32 */
+    padding-bottom: 8rem; /* lg:py-32 */
+  }
+}
+
+.heroContainer {
+  display: grid;
+  gap: 1.5rem; /* gap-6 */
+  padding-left: 1rem; /* px-4 */
+  padding-right: 1rem; /* px-4 */
+}
+
+@media (min-width: 768px) {
+  .heroContainer {
+    padding-left: 1.5rem; /* md:px-6 */
+    padding-right: 1.5rem; /* md:px-6 */
+  }
+}
+
+@media (min-width: 1024px) {
+  .heroContainer {
+    grid-template-columns: repeat(2, minmax(0, 1fr)); /* lg:grid-cols-2 */
+    gap: 3rem; /* lg:gap-12 */
+  }
+}
+
+.heroContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  row-gap: 1rem; /* space-y-4 */
+}
+
+.textBlock {
+  row-gap: 0.5rem; /* space-y-2 */
+}
+
+.subheading {
+  font-size: 0.875rem; /* text-sm */
+  font-weight: 500; /* font-medium */
+  letter-spacing: 0.05em; /* tracking-wide */
+  color: #6b7280; /* text-gray-500 */
+}
+
+.darkSubheading {
+  color: #9ca3af; /* dark:text-gray-400 */
+}
+
+.heading {
+  font-size: 2.25rem; /* text-4xl */
+  font-weight: 700; /* font-bold */
+  letter-spacing: -0.05em; /* tracking-tighter */
+}
+
+@media (min-width: 640px) {
+  .heading {
+    font-size: 3rem; /* sm:text-5xl */
+  }
+}
+
+@media (min-width: 768px) {
+  .heading {
+    font-size: 3.75rem; /* md:text-6xl */
+  }
+}
+
+@media (min-width: 1024px) {
+  .heading {
+    font-size: 4.5rem; /* lg:text-7xl/none */
+    line-height: 1;
+  }
+}
+
+.description {
+  max-width: 37.5rem; /* max-w-[600px] */
+  color: #6b7280; /* text-gray-500 */
+}
+
+@media (min-width: 768px) {
+  .description {
+    font-size: 1.25rem; /* md:text-xl */
+  }
+}
+
+.darkDescription {
+  color: #9ca3af; /* dark:text-gray-400 */
+}
+
+.buttonGroup {
+  display: flex;
+  flex-direction: column;
+  row-gap: 0.5rem; /* gap-2 */
+}
+
+@media (min-width: 400px) {
+  .buttonGroup {
+    flex-direction: row; /* min-[400px]:flex-row */
+  }
+}
+
+.heroImage {
+  margin-left: auto;
+  margin-right: auto;
+  aspect-ratio: 1 / 1; /* aspect-square */
+  overflow: hidden;
+  border-radius: 0.75rem; /* rounded-xl */
+  object-fit: cover;
+}
+
+@media (min-width: 640px) {
+  .heroImage {
+    width: 100%; /* sm:w-full */
+  }
+}
+
+@media (min-width: 1024px) {
+  .heroImage {
+    order: 99; /* lg:order-last */
+  }
+}
