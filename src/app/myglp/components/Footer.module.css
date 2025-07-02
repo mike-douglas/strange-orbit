@@ -1,0 +1,206 @@
+/* src/app/myglp/components/Footer.module.css */
+
+.footer {
+  width: 100%;
+  padding-top: 3rem; /* py-12 */
+  padding-bottom: 3rem; /* py-12 */
+  border-top: 1px solid #e2e8f0; /* border-t */
+}
+
+@media (min-width: 768px) {
+  .footer {
+    padding-top: 6rem; /* md:py-24 */
+    padding-bottom: 6rem; /* md:py-24 */
+  }
+}
+
+@media (min-width: 1024px) {
+  .footer {
+    padding-top: 8rem; /* lg:py-32 */
+    padding-bottom: 8rem; /* lg:py-32 */
+  }
+}
+
+.container {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem; /* gap-4 */
+  padding-left: 1rem; /* px-4 */
+  padding-right: 1rem; /* px-4 */
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .container {
+    padding-left: 1.5rem; /* md:px-6 */
+    padding-right: 1.5rem; /* md:px-6 */
+  }
+}
+
+.spaceY3 {
+  row-gap: 0.75rem; /* space-y-3 */
+}
+
+.heading {
+  font-size: 1.875rem; /* text-3xl */
+  font-weight: 700; /* font-bold */
+  letter-spacing: -0.025em; /* tracking-tighter */
+}
+
+@media (min-width: 768px) {
+  .heading {
+    font-size: 2.25rem; /* md:text-4xl/tight */
+    line-height: 1.25;
+  }
+}
+
+.description {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 37.5rem; /* max-w-[600px] */
+  color: #6b7280; /* text-gray-500 */
+}
+
+@media (min-width: 768px) {
+  .description {
+    font-size: 1.25rem; /* md:text-xl/relaxed */
+    line-height: 1.625;
+  }
+}
+
+@media (min-width: 1024px) {
+  .description {
+    font-size: 1rem; /* lg:text-base/relaxed */
+    line-height: 1.625;
+  }
+}
+
+@media (min-width: 1280px) {
+  .description {
+    font-size: 1.25rem; /* xl:text-xl/relaxed */
+    line-height: 1.625;
+  }
+}
+
+.darkDescription {
+  color: #9ca3af; /* dark:text-gray-400 */
+}
+
+.formWrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 24rem; /* max-w-sm */
+  row-gap: 0.5rem; /* space-y-2 */
+}
+
+.form {
+  display: flex;
+  column-gap: 0.5rem; /* space-x-2 */
+}
+
+.input {
+  display: flex;
+  height: 2.5rem; /* h-10 */
+  width: 100%;
+  border-radius: 0.375rem; /* rounded-md */
+  border: 1px solid #e2e8f0; /* border border-input */
+  background-color: #ffffff; /* bg-background */
+  padding-left: 0.75rem; /* px-3 */
+  padding-right: 0.75rem; /* px-3 */
+  padding-top: 0.5rem; /* py-2 */
+  padding-bottom: 0.5rem; /* py-2 */
+  font-size: 0.875rem; /* text-sm */
+  outline: none; /* focus-visible:outline-none */
+}
+
+.input::placeholder {
+  color: #9ca3af; /* placeholder:text-muted-foreground */
+}
+
+.input:focus-visible {
+  outline: 2px solid #000; /* focus-visible:ring-2 focus-visible:ring-ring */
+  outline-offset: 2px; /* focus-visible:ring-offset-2 */
+}
+
+.input:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  border-radius: 0.375rem; /* rounded-md */
+  font-size: 0.875rem; /* text-sm */
+  font-weight: 500; /* font-medium */
+  outline: none; /* focus-visible:outline-none */
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms; /* transition-colors */
+  background-color: #1a202c; /* bg-primary */
+  color: #f7fafc; /* text-primary-foreground */
+  height: 2.5rem; /* h-10 */
+  padding-left: 1rem; /* px-4 */
+  padding-right: 1rem; /* px-4 */
+  padding-top: 0.5rem; /* py-2 */
+  padding-bottom: 0.5rem; /* py-2 */
+}
+
+.button:hover {
+  background-color: #2d3748; /* hover:bg-primary/90 */
+}
+
+.button:focus-visible {
+  outline: 2px solid #000; /* focus-visible:ring-2 focus-visible:ring-ring */
+  outline-offset: 2px; /* focus-visible:ring-offset-2 */
+}
+
+.button:disabled {
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.privacyText {
+  font-size: 0.75rem; /* text-xs */
+  color: #6b7280; /* text-gray-500 */
+}
+
+.darkPrivacyText {
+  color: #9ca3af; /* dark:text-gray-400 */
+}
+
+.privacyLink {
+  text-decoration: underline;
+  text-underline-offset: 2px; /* underline-offset-2 */
+}
+
+.socialLinks {
+  display: flex;
+  justify-content: center;
+  column-gap: 1rem; /* space-x-4 */
+}
+
+.socialLink {
+  color: #6b7280; /* text-gray-500 */
+}
+
+.socialLink:hover {
+  color: #1a202c; /* hover:text-gray-900 */
+}
+
+.darkSocialLink {
+  color: #9ca3af; /* dark:text-gray-400 */
+}
+
+.darkSocialLink:hover {
+  color: #f7fafc; /* dark:hover:text-gray-50 */
+}
+
+.icon {
+  height: 1.5rem; /* h-6 */
+  width: 1.5rem; /* w-6 */
+}
