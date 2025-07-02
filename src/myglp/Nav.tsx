@@ -5,8 +5,11 @@ import styles from './Nav.module.css';
 import Link from 'next/link';
 
 import AppIcon from './components/AppIcon';
+import { useState } from 'react';
 
 export default function Nav() {
+  const [isNavOpen, setIsNavOpen] = useState(false);
+
   const scrollTo = (e: React.MouseEvent<HTMLAnchorElement, MouseEvent>, id: string) => {
     e.preventDefault();
     const element = document.getElementById(id);
@@ -16,13 +19,20 @@ export default function Nav() {
         behavior: 'smooth',
       });
     }
+    setIsNavOpen(false); // Close nav on link click
+  };
+
+  const toggleNav = () => {
+    setIsNavOpen(!isNavOpen);
   };
 
   return (
     <nav className={allStyles.heroContainer + ' ' + styles.navGrid}>
       <AppIcon />
-      <button className={styles.mobileButton}>Menu</button>
-      <section className={styles.navLinks}>
+      <section className={styles.mobileButtonContainer}>
+        <button className={styles.mobileButton} onClick={toggleNav}>Menu</button>
+      </section>
+      <section className={`${styles.navLinks} ${isNavOpen ? styles.navLinksOpen : ''}`}>
         <Link href="#features" scroll={false} onClick={(e) => scrollTo(e, 'features')}>
           Features
         </Link>
