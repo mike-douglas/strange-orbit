@@ -1,0 +1,7 @@
+.link {
+  padding: 1.0em;
+  border-radius: 9999px;
+  background-color: var(--color-primary);
+  color: white;
+  font-weight: 600;
+}

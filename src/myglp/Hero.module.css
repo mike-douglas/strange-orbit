@@ -1,0 +1,27 @@
+.heroSection {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--padding-sm);
+  align-items: center;
+  padding: var(--padding-sm) var(--padding-lg);
+  background: url('/Hero-Background.png') top center no-repeat;
+  background-size: contain;
+}
+
+.heroContent {
+  display: flex;
+  flex-direction: column;
+  gap: var(--padding-md);
+}
+
+@media (max-width: 768px) {
+  .heroSection {
+    grid-template-columns: 1fr;
+    padding: var(--padding-sm);
+    background: none;
+  }
+
+  .heroContent {
+    text-align: center;
+  }
+}

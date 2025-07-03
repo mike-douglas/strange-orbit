@@ -1,0 +1,39 @@
+:root {
+  --background: #fefefe;
+  --foreground: #343434;
+
+  --background-feature-section: #fafafa;
+  --background-support-section: #fafafa;
+
+  --color-white: #ffffff;
+  --color-primary: #00ACAC;
+  --color-secondary: #a7dad8;
+  --color-link: #004446;
+  --color-header: #0082b9;
+
+  --padding-xs: 0.5em;
+  --padding-sm: 1em;
+  --padding-md: 2em;
+  --padding-lg: 3em;
+
+  --grid-gap: 1.5em;
+  --grid-gap-sm: 0.5em;
+  --grid-columns: 12;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 115%;
+}
+
+p a {
+  text-decoration: underline;
+  color: var(--color-link);
+}

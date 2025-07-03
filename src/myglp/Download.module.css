@@ -1,0 +1,29 @@
+.downloadContainer {
+  padding: var(--padding-lg);
+  max-width: 60rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.downloadContainer h2 {
+  margin-bottom: var(--padding-sm);
+  font-size: 3rem;
+  font-weight: 800;
+}
+
+.downloadContainer p {
+  margin-bottom: var(--padding-md);
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .downloadContainer {
+    margin: 0;
+    max-width: 100%;
+  }
+
+  .downloadContainer h2 {
+    font-size: 2.0rem;
+  }
+}

@@ -1,0 +1,15 @@
+.title {
+  display: inline;
+  color: var(--color-white);
+  padding: var(--padding-xs) var(--padding-sm);
+  margin: 0 0 0 -1.0rem;
+  background-color: var(--color-header);
+  font-size: 0.80rem;
+  font-weight: 600;
+  border-radius: 9999px;
+}
+
+.headerContainer {
+  margin: 0;
+  padding: 0;
+}

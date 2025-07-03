@@ -1,0 +1,3 @@
+.footerContent > * {
+  padding: var(--padding-md) 0;
+}

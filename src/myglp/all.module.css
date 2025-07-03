@@ -1,0 +1,35 @@
+.sectionHeader {
+  margin: 2em;
+}
+
+.sectionHeader span {
+  color: var(--color-white);
+  padding: var(--padding-xs) var(--padding-sm);
+  margin: var(--padding-lg) 0;
+  background-color: var(--color-primary);
+  font-size: 0.80rem;
+  font-weight: 600;
+  border-radius: 9999px;
+}
+
+.heroContainer {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 0 var(--padding-md); 
+}
+
+.wideContainer {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 0 var(--padding-md);
+}
+
+.wideContainer > * {
+  margin: var(--padding-md) 0;
+}
+
+@media (max-width: 768px) {
+  .wideContainer {
+    padding: 0 var(--padding-sm);
+  }
+}
