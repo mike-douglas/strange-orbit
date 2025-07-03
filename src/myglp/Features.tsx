@@ -29,7 +29,7 @@ export default function Features() {
         <div className={styles.featureList}>
           <h2>Plus, other features.</h2>
           <ul>
-            <li><strong>🔔 Notifications.</strong> Get reminders for upcoming shot so you never miss a dose.</li>
+            <li><strong>🔔 Notifications.</strong> Get reminders for upcoming shots so you never miss a dose.</li>
             <li><strong>🧘🏾‍♀️ Mood tracking.</strong> Record your mood and mental state throughout your journey.</li>
             <li><strong>📏 Customizable units.</strong> Choose the measurement units that work for you.</li>
           </ul>
