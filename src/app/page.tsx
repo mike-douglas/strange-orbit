@@ -5,7 +5,7 @@ export default function Home() {
     <main className={styles.home}>
       <article>
         <section>
-          <p>Hello from <strong>Strange Orbit</strong>. I&rpos;m a software engineer building apps for Apple platforms.</p>
+          <p>Hello from <strong>Strange Orbit</strong>. I&apos;m a software engineer building apps for Apple platforms.</p>
           <p>More coming soon.</p>
         </section>
       </article>
