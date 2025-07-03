@@ -25,7 +25,7 @@ export default function Support() {
               <LinkButton title="Privacy Policy" href="/myglp/privacy" />
             </div>
             <div>
-              <LinkButton title="Terms of Use" href="/myglp/terms" />
+              <LinkButton title="Terms of Use" href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/" />
             </div>
           </article>
         </div>

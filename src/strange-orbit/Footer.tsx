@@ -1,7 +1,5 @@
 import styles from './Footer.module.css';
 
-import Image from 'next/image';
-
 export default function SiteFooter() {
   return (
     <section className={styles.footerContent}>
