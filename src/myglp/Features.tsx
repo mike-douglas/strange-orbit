@@ -13,14 +13,17 @@ export default function Features() {
           <FeatureItem
             title="Medication Tracking"
             description="Easily log your GLP-1 medication doses and schedules."
+            imageSrc="/Shot-Details.png"
           />
           <FeatureItem
             title="Progress Monitoring"
             description="Track your weight, side effects, and other health metrics over time."
+            imageSrc="/Weight-Trends.png"
           />
           <FeatureItem
             title="Personalized Insights"
             description="Receive tailored insights and tips based on your data."
+            imageSrc="/Comprehensive-Tracking.png"
           />
         </div>
       </section>

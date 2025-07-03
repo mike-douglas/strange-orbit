@@ -3,7 +3,6 @@ import Hero from '../../myglp/Hero';
 import Features from '../../myglp/Features';
 import Download from '../../myglp/Download';
 import Support from '../../myglp/Support';
-import FAQ from '../../myglp/FAQ';
 import Footer from '../../myglp/Footer';
 
 export default function MyGLPPage() {
@@ -14,7 +13,6 @@ export default function MyGLPPage() {
       <Features />
       <Download />
       <Support />
-      <FAQ />
       <Footer />
     </main>
   );

@@ -15,15 +15,21 @@
 .heroContainer {
   max-width: 60rem;
   margin: 0 auto;
-  padding: 0 var(--myglp-padding-md); 
+  padding: 0 var(--padding-md); 
 }
 
 .wideContainer {
   max-width: 80rem;
   margin: 0 auto;
-  padding: 0 var(--myglp-padding-md);
+  padding: 0 var(--padding-md);
 }
 
 .wideContainer > * {
   margin: var(--padding-md) 0;
+}
+
+@media (max-width: 768px) {
+  .wideContainer {
+    padding: 0 var(--padding-sm);
+  }
 }

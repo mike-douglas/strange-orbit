@@ -4,14 +4,15 @@ import styles from './FeatureItem.module.css';
 interface FeatureItemProps {
   title: string;
   description: string;
+  imageSrc: string;
 }
 
-export default function FeatureItem({ title, description }: FeatureItemProps) {
+export default function FeatureItem({ title, description, imageSrc }: FeatureItemProps) {
   return (
     <div className={styles.featureItem}>
       <h3>{title}</h3>
       <p>{description}</p>
-      <Image src="https://placehold.co/300x450" alt="Feature Image" width={300} height={450} />
+      <Image className={styles.image} src={imageSrc} alt={'Image for: ' + title} width="0" height="0" sizes="100vw" style={{ width: '100%', height: 'auto' }} />
     </div>
   );
 }

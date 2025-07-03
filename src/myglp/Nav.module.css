@@ -44,6 +44,7 @@
     top: 100px;
     right: 0;
     width: 100%;
+    background-color: var(--color-secondary);
   }
 
   .navLinksOpen {
@@ -54,6 +55,6 @@
     display: block;
     text-align: right;
     padding: var(--padding-sm);
-    background-color: #ccc;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
   }
 }

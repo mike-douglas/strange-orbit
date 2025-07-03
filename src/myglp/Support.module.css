@@ -1,0 +1,24 @@
+.supportContainer {
+  padding: var(--padding-md) 0;
+  background: var(--background-support-section);
+}
+
+.supportGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  min-height: 200px;
+}
+
+.supportGrid article {
+  line-height: 1.5rem;
+}
+
+.supportGrid article > * {
+  margin: 0 0 var(--padding-lg) 0;
+}
+
+.supportGrid h3 {
+  margin-bottom: var(--padding-xs);
+  font-size: 2.0rem;
+  font-weight: 600;
+}

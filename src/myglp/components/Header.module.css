@@ -3,7 +3,7 @@
   color: var(--color-white);
   padding: var(--padding-xs) var(--padding-sm);
   margin: 0;
-  background-color: var(--color-primary);
+  background-color: var(--color-header);
   font-size: 0.80rem;
   font-weight: 600;
   border-radius: 9999px;

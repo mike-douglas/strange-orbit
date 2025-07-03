@@ -38,14 +38,11 @@ export default function Nav() {
         <Link href="#features" scroll={false} onClick={(e) => scrollTo(e, 'features')}>
           Features
         </Link>
-        <Link href="#faq" scroll={false} onClick={(e) => scrollTo(e, 'faq')}>
-          FAQ
-        </Link>
-        <Link href="#about" scroll={false} onClick={(e) => scrollTo(e, 'about')}>
-          About
-        </Link>
         <Link href="#support" scroll={false} onClick={(e) => scrollTo(e, 'support')}>
           Support
+        </Link>
+        <Link href="#about" scroll={false} onClick={(e) => scrollTo(e, 'support')}>
+          Privacy & Terms
         </Link>
       </section>
     </nav>

@@ -3,9 +3,13 @@
   --foreground: #343434;
 
   --background-feature-section: #fafafa;
+  --background-support-section: #fafafa;
 
   --color-white: #ffffff;
   --color-primary: #00ACAC;
+  --color-secondary: #a7dad8;
+  --color-link: #004446;
+  --color-header: #0082b9;
 
   --padding-xs: 0.5em;
   --padding-sm: 1em;
@@ -89,4 +93,9 @@ table {
 body {
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 115%;
+}
+
+p a {
+  text-decoration: underline;
+  color: var(--color-link);
 }
