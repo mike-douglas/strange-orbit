@@ -4,17 +4,17 @@ import styles from './Home.module.css'
 
 export default function Home() {
   return (
-    <div className={styles.home}>
-      <header>
-        <Logo />
+    <div className={styles.container}>
+      <header className={styles.header}>
+        <Logo className={styles.logo} />
       </header>
-      <section>
+      <section className={styles.frontmatter}>
         <article>
-          <p>Hello from <strong>Strange Orbit</strong>. I&apos;m a software engineer building apps for Apple platforms.</p>
-          <p>More coming soon.</p>
+          <p>Hello 👋 </p>
+          <p><strong>Strange Orbit</strong> is <a href="https://miked.codes">Mike Douglas</a>, an indie iOS developer building a portfolio of beautiful, delightful apps.</p>
         </article>
       </section>
-      <footer>
+      <footer className={styles.footer}>
         Say <a href="mailto:hello@strange-orbit.com">hello@</a>.
       </footer>
     </div>

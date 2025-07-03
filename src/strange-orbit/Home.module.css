@@ -1,33 +1,45 @@
-.home footer {
-  color: #7b7979;
+.container {
+  max-width: 60rem;
+  margin: 0 auto;
 }
 
-.home footer a {
-  color: #913175;
-  text-decoration: none;
+.container > * {
+   padding: var(--padding-md); 
 }
 
-.home header, .home article, .home footer {
-  margin: 2.0rem auto 0;
-  padding: 0.5rem;
-  max-width: 40rem;
+.header {
+  margin-top: var(--padding-xxl);
 }
 
-.home header, .home footer {
-  text-align: center;
-  margin-top: 5.0rem;
+.logo {
+  width: 128px;
+  height: 128px;
+  margin: 0 -24px 0;
 }
 
-.home section {
+.frontmatter {
   font-size: 2.5rem;
   font-weight: 600;
   line-height: 3.0rem;
 }
 
-.home strong {
-  color: #CD5888;
+.frontmatter article strong {
+  color: var(--dusk-3);
 }
 
-.home p {
-  margin-bottom: 1.0em;
+.frontmatter p {
+  margin-bottom: var(--padding-lg);
+}
+
+.footer {
+  color: var(--dusk-1);
+}
+
+.footer a {
+  color: var(--dusk-3);
+  text-decoration: none;
+}
+
+.footer {
+  text-align: center;
 }

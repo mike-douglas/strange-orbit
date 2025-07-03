@@ -1,3 +1,19 @@
 .footerContainer {
   padding: var(--padding-md) 0;
 }
+
+.footerContent {
+  display: flex;
+  justify-content: last baseline;
+  align-items: center;
+}
+
+.footerContent p {
+  opacity: 0.8;
+}
+
+.logo {
+  width: 64px;
+  height: 64px;
+  opacity: 0.8;
+}
