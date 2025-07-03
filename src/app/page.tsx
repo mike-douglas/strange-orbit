@@ -1,17 +1,7 @@
-import styles from "./page.module.css";
+import Home from "../strange-orbit/Home";
 
-export default function Home() {
+export default function Index() {
   return (
-    <main className={styles.home}>
-      <article>
-        <section>
-          <p>Hello from <strong>Strange Orbit</strong>. I&apos;m a software engineer building apps for Apple platforms.</p>
-          <p>More coming soon.</p>
-        </section>
-      </article>
-      <footer>
-        Say <a href="mailto:hello@strange-orbit.com">hello@</a>.
-      </footer>
-    </main>
+    <Home />
   );
 }
