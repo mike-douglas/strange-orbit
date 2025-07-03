@@ -11,20 +11,28 @@ export default function Features() {
         <Header title="Features" />
         <div className={styles.featureGrid}>
           <FeatureItem
-            title="Medication Tracking"
-            description="Easily log your GLP-1 medication doses and schedules."
+            title="Record Every Detail"
+            description="Save your shot dose, brand, and injection site so you never lose track."
             imageSrc="/Shot-Details.png"
           />
           <FeatureItem
-            title="Progress Monitoring"
-            description="Track your weight, side effects, and other health metrics over time."
+            title="Track Your Progress"
+            description="Monitor your weight loss journey with ease."
             imageSrc="/Weight-Trends.png"
           />
           <FeatureItem
-            title="Personalized Insights"
-            description="Receive tailored insights and tips based on your data."
-            imageSrc="/Comprehensive-Tracking.png"
+            title="Everything In One Place"
+            description="Keep a comprehensive log of your shots, weight, and side effects in one convenient app."
+            imageSrc="/Timeline-Tracking.png"
           />
+        </div>
+        <div className={styles.featureList}>
+          <h2>Plus, other features.</h2>
+          <ul>
+            <li><strong>🔔 Notifications.</strong> Get reminders for upcoming shot so you never miss a dose.</li>
+            <li><strong>🧘🏾‍♀️ Mood tracking.</strong> Record your mood and mental state throughout your journey.</li>
+            <li><strong>📏 Customizable units.</strong> Choose the measurement units that work for you.</li>
+          </ul>
         </div>
       </section>
     </div>

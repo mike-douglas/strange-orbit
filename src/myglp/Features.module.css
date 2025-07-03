@@ -8,3 +8,32 @@
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: var(--padding-md);
 }
+
+.featureList {
+  text-align: center;
+}
+
+.featureList h2 {
+  font-size: 3.0rem;
+  font-weight: 800;
+  margin: 0 0 var(--padding-xs);
+}
+
+.featureList ul {
+  display: block;
+  max-width: 30em;
+  margin: 0 auto;
+}
+
+.featureList li {
+  padding: var(--padding-xs) 0;
+  text-align: left;
+  line-height: 1.5rem;
+}
+
+.featureList strong {
+  font-size: 1.5rem;
+  font-weight: 800;
+  margin: var(--padding-xs) 0 var(--padding-xs) 0;
+  display: block;
+}
