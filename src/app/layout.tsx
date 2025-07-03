@@ -5,7 +5,7 @@ import "./global.css"
 
 export const metadata: Metadata = {
   title: "Strange Orbit",
-  description: "Welcome to Strange Orbit",
+  description: "A portfolio of beautiful, delightful apps.",
 };
 
 export default function RootLayout({
