@@ -14,6 +14,7 @@ const nextConfig: NextConfig = {
     dangerouslyAllowSVG: true,
     unoptimized: true,
   },
+  trailingSlash: true,
 };
 
 export default nextConfig;
