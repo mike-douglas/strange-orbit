@@ -4,7 +4,7 @@
   gap: var(--padding-sm);
   align-items: center;
   padding: var(--padding-sm) var(--padding-lg);
-  background: url('/Hero-Background.png') top center no-repeat;
+  background: url('/myglp/Hero-Background.png') top center no-repeat;
   background-size: contain;
 }
 

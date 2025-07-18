@@ -13,24 +13,25 @@ export default function Features() {
           <FeatureItem
             title="Record Every Detail"
             description="Save your shot dose, brand, and injection site so you never lose track."
-            imageSrc="/Shot-Details.png"
+            imageSrc="/myglp/Shot-Details.png"
           />
           <FeatureItem
-            title="Track Your Progress"
-            description="Monitor your weight loss journey with ease."
-            imageSrc="/Weight-Trends.png"
+            title="Medication Levels"
+            description="Get insight about how your body changes during your GLP-1 cycle."
+            imageSrc="/myglp/Medication-Levels.png"
           />
           <FeatureItem
             title="Everything In One Place"
-            description="Keep a comprehensive log of your shots, weight, and side effects in one convenient app."
-            imageSrc="/Timeline-Tracking.png"
+            description="Keep a comprehensive log of your shots, weight, and side effects in one place."
+            imageSrc="/myglp/Timeline-Tracking.png"
           />
         </div>
         <div className={styles.featureList}>
           <h2>Plus, other features.</h2>
           <ul>
-            <li><strong>🔔 Notifications.</strong> Get reminders for upcoming shots so you never miss a dose.</li>
-            <li><strong>🧘🏾‍♀️ Mood tracking.</strong> Record your mood and mental state throughout your journey.</li>
+            <li><strong>👩‍⚕️ Apple Health Integration.</strong> See your activity levels, calories, and more from Apple Health and your other health apps in MyGLP.</li>
+            <li><strong>🔔 Smart Notifications.</strong> Get reminders for upcoming shots so you never miss a dose.</li>
+            <li><strong>📉 Weight Trends.</strong> Log your weight and track your progress over time toward your goal.</li>
             <li><strong>📏 Customizable units.</strong> Choose the measurement units that work for you.</li>
           </ul>
         </div>
