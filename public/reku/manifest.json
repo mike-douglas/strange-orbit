@@ -1,0 +1,16 @@
+{
+  "collections": [
+    {
+      "name": "Japanese",
+      "description": "Essential Japanese writing systems and vocabulary.",
+      "type": "carousel",
+      "decks": [
+        {
+          "id": "0391a2a3-6270-474e-b80b-556bf79ff46f",
+          "name": "Japanese Hiragana",
+          "lastUpdated": "2026-05-06T00:00:00Z"
+        }
+      ]
+    }
+  ]
+}
