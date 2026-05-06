@@ -5,7 +5,7 @@
   "icon": {
     "type": "emoji",
     "emoji": "あ",
-    "color": "#FF6B35"
+    "color": "#FF3B30"
   },
   "cards": [
     { "front": "あ", "back": "a" },
