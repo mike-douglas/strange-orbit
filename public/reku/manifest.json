@@ -1,13 +1,18 @@
 {
   "collections": [
     {
-      "name": "Japanese",
-      "description": "Essential Japanese writing systems and vocabulary.",
+      "name": "Japanese Kana",
+      "description": "The building blocks of Japanese writing — hiragana and katakana.",
       "type": "carousel",
       "decks": [
         {
-          "id": "0391a2a3-6270-474e-b80b-556bf79ff46f",
-          "name": "Japanese Hiragana",
+          "id": "e7c1f0bf-1e33-4dfb-8a06-cc3f5b8cc722",
+          "name": "Hiragana",
+          "lastUpdated": "2026-05-06T00:00:00Z"
+        },
+        {
+          "id": "8d79ef2c-da3a-4efa-a0cd-f34623ce911b",
+          "name": "Katakana",
           "lastUpdated": "2026-05-06T00:00:00Z"
         }
       ]
