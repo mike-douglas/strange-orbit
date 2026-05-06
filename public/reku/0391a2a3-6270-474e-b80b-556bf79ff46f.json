@@ -1,6 +1,7 @@
 {
   "title": "Japanese Hiragana",
   "description": "All hiragana characters including basic, voiced (dakuten), semi-voiced (handakuten), and compound (youon) forms. Master the complete foundation of Japanese writing.",
+  "libraryLastUpdated": "2026-05-06T00:00:00Z",
   "cards": [
     { "front": "あ", "back": "a" },
     { "front": "い", "back": "i" },
