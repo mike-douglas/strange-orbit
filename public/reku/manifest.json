@@ -1,19 +1,29 @@
 {
   "collections": [
-    {
+      {
       "name": "Japanese Kana",
-      "description": "The building blocks of Japanese writing — hiragana and katakana.",
+      "description": "Learn to read hiragana and katakana, the two phonetic scripts used in Japanese.",
       "type": "carousel",
       "decks": [
         {
-          "id": "e7c1f0bf-1e33-4dfb-8a06-cc3f5b8cc722",
-          "name": "Hiragana",
-          "lastUpdated": "2026-05-06T00:00:00Z"
+          "id": "95d47bf4-308a-4d6d-8667-db2d77e0ec47",
+          "name": "Hiragana — Base Characters",
+          "lastUpdated": "2026-05-08T00:00:00Z"
         },
         {
-          "id": "8d79ef2c-da3a-4efa-a0cd-f34623ce911b",
-          "name": "Katakana",
-          "lastUpdated": "2026-05-06T00:00:00Z"
+          "id": "03b6ef42-3b83-4084-83cf-3f922a9780e7",
+          "name": "Hiragana — Dakuten & Combinations",
+          "lastUpdated": "2026-05-08T00:00:00Z"
+        },
+        {
+          "id": "8a6690a2-089e-4ad6-a6e6-2518cc8b422c",
+          "name": "Katakana — Base Characters",
+          "lastUpdated": "2026-05-08T00:00:00Z"
+        },
+        {
+          "id": "5b3c01c0-019c-43f7-b6a0-b61b7600cb17",
+          "name": "Katakana — Dakuten & Combinations",
+          "lastUpdated": "2026-05-08T00:00:00Z"
         }
       ]
     },
