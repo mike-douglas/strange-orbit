@@ -1,0 +1,417 @@
+{
+  "title": "N5 Kanji",
+  "description": "The 80 kanji required for JLPT N5.",
+  "libraryLastUpdated": "2026-05-08T00:00:00Z",
+  "icon": {
+    "type": "emoji",
+    "emoji": "漢",
+    "color": "#E67E22"
+  },
+  "cards": [
+    {
+      "front": "一",
+      "back": "one\nOn: いち、いつ\nKun: ひと(つ)",
+      "hint": "いち (ichi)"
+    },
+    {
+      "front": "二",
+      "back": "two\nOn: に\nKun: ふた(つ)",
+      "hint": "に (ni)"
+    },
+    {
+      "front": "三",
+      "back": "three\nOn: さん\nKun: み(っつ)",
+      "hint": "さん (san)"
+    },
+    {
+      "front": "四",
+      "back": "four\nOn: し\nKun: よ(っつ)、よん",
+      "hint": "し (shi)"
+    },
+    {
+      "front": "五",
+      "back": "five\nOn: ご\nKun: いつ(つ)",
+      "hint": "ご (go)"
+    },
+    {
+      "front": "六",
+      "back": "six\nOn: ろく\nKun: む(っつ)",
+      "hint": "ろく (roku)"
+    },
+    {
+      "front": "七",
+      "back": "seven\nOn: しち\nKun: なな(つ)",
+      "hint": "しち (shichi)"
+    },
+    {
+      "front": "八",
+      "back": "eight\nOn: はち\nKun: や(っつ)",
+      "hint": "はち (hachi)"
+    },
+    {
+      "front": "九",
+      "back": "nine\nOn: く、きゅう\nKun: ここの(つ)",
+      "hint": "く (ku)"
+    },
+    {
+      "front": "十",
+      "back": "ten\nOn: じゅう\nKun: とお",
+      "hint": "じゅう (juu)"
+    },
+    {
+      "front": "百",
+      "back": "hundred\nOn: ひゃく\nKun: —",
+      "hint": "ひゃく (hyaku)"
+    },
+    {
+      "front": "千",
+      "back": "thousand\nOn: せん\nKun: —",
+      "hint": "せん (sen)"
+    },
+    {
+      "front": "万",
+      "back": "ten thousand\nOn: まん、ばん\nKun: —",
+      "hint": "まん (man)"
+    },
+    {
+      "front": "円",
+      "back": "yen; circle\nOn: えん\nKun: —",
+      "hint": "えん (en)"
+    },
+    {
+      "front": "年",
+      "back": "year\nOn: ねん\nKun: とし",
+      "hint": "ねん (nen)"
+    },
+    {
+      "front": "月",
+      "back": "month; moon\nOn: げつ、がつ\nKun: つき",
+      "hint": "げつ (getsu)"
+    },
+    {
+      "front": "日",
+      "back": "day; sun\nOn: にち、じつ\nKun: ひ、か",
+      "hint": "にち (nichi)"
+    },
+    {
+      "front": "時",
+      "back": "time; hour\nOn: じ\nKun: とき",
+      "hint": "じ (ji)"
+    },
+    {
+      "front": "分",
+      "back": "minute; part\nOn: ふん、ぶん、ふ\nKun: わ(かる)",
+      "hint": "ふん (fun)"
+    },
+    {
+      "front": "半",
+      "back": "half\nOn: はん\nKun: なか(ば)",
+      "hint": "はん (han)"
+    },
+    {
+      "front": "上",
+      "back": "above; up\nOn: じょう\nKun: うえ、あ(がる)",
+      "hint": "じょう (jou)"
+    },
+    {
+      "front": "下",
+      "back": "below; down\nOn: か、げ\nKun: した、さ(がる)",
+      "hint": "か (ka)"
+    },
+    {
+      "front": "中",
+      "back": "middle; inside\nOn: ちゅう\nKun: なか",
+      "hint": "ちゅう (chuu)"
+    },
+    {
+      "front": "大",
+      "back": "big; large\nOn: だい、たい\nKun: おお(きい)",
+      "hint": "だい (dai)"
+    },
+    {
+      "front": "小",
+      "back": "small; little\nOn: しょう\nKun: ちい(さい)、こ",
+      "hint": "しょう (shou)"
+    },
+    {
+      "front": "本",
+      "back": "book; origin\nOn: ほん\nKun: もと",
+      "hint": "ほん (hon)"
+    },
+    {
+      "front": "人",
+      "back": "person\nOn: じん、にん\nKun: ひと",
+      "hint": "じん (jin)"
+    },
+    {
+      "front": "口",
+      "back": "mouth\nOn: こう、く\nKun: くち",
+      "hint": "こう (kou)"
+    },
+    {
+      "front": "山",
+      "back": "mountain\nOn: さん\nKun: やま",
+      "hint": "さん (san)"
+    },
+    {
+      "front": "川",
+      "back": "river\nOn: せん\nKun: かわ",
+      "hint": "せん (sen)"
+    },
+    {
+      "front": "田",
+      "back": "rice field\nOn: でん\nKun: た",
+      "hint": "でん (den)"
+    },
+    {
+      "front": "力",
+      "back": "power; strength\nOn: りょく、りき\nKun: ちから",
+      "hint": "りょく (ryoku)"
+    },
+    {
+      "front": "気",
+      "back": "spirit; energy; weather\nOn: き、け\nKun: —",
+      "hint": "き (ki)"
+    },
+    {
+      "front": "水",
+      "back": "water\nOn: すい\nKun: みず",
+      "hint": "すい (sui)"
+    },
+    {
+      "front": "火",
+      "back": "fire\nOn: か\nKun: ひ",
+      "hint": "か (ka)"
+    },
+    {
+      "front": "木",
+      "back": "tree; wood\nOn: もく、ぼく\nKun: き、こ",
+      "hint": "もく (moku)"
+    },
+    {
+      "front": "金",
+      "back": "gold; money\nOn: きん、こん\nKun: かね",
+      "hint": "きん (kin)"
+    },
+    {
+      "front": "土",
+      "back": "earth; soil\nOn: ど、と\nKun: つち",
+      "hint": "ど (do)"
+    },
+    {
+      "front": "白",
+      "back": "white\nOn: はく\nKun: しろ、しら",
+      "hint": "はく (haku)"
+    },
+    {
+      "front": "天",
+      "back": "heaven; sky\nOn: てん\nKun: あめ、あま",
+      "hint": "てん (ten)"
+    },
+    {
+      "front": "生",
+      "back": "life; birth\nOn: せい、しょう\nKun: い(きる)、う(まれる)",
+      "hint": "せい (sei)"
+    },
+    {
+      "front": "正",
+      "back": "correct; right\nOn: せい、しょう\nKun: ただ(しい)",
+      "hint": "せい (sei)"
+    },
+    {
+      "front": "午",
+      "back": "noon (12 PM)\nOn: ご\nKun: —",
+      "hint": "ご (go)"
+    },
+    {
+      "front": "母",
+      "back": "mother\nOn: ぼ\nKun: はは",
+      "hint": "ぼ (bo)"
+    },
+    {
+      "front": "父",
+      "back": "father\nOn: ふ\nKun: ちち",
+      "hint": "ふ (fu)"
+    },
+    {
+      "front": "女",
+      "back": "woman; female\nOn: じょ、にょ\nKun: おんな、め",
+      "hint": "じょ (jo)"
+    },
+    {
+      "front": "男",
+      "back": "man; male\nOn: だん、なん\nKun: おとこ",
+      "hint": "だん (dan)"
+    },
+    {
+      "front": "子",
+      "back": "child\nOn: し、す\nKun: こ",
+      "hint": "し (shi)"
+    },
+    {
+      "front": "学",
+      "back": "study; learning\nOn: がく\nKun: まな(ぶ)",
+      "hint": "がく (gaku)"
+    },
+    {
+      "front": "先",
+      "back": "previous; ahead\nOn: せん\nKun: さき",
+      "hint": "せん (sen)"
+    },
+    {
+      "front": "名",
+      "back": "name\nOn: めい、みょう\nKun: な",
+      "hint": "めい (mei)"
+    },
+    {
+      "front": "外",
+      "back": "outside\nOn: がい、げ\nKun: そと、はず(れる)",
+      "hint": "がい (gai)"
+    },
+    {
+      "front": "国",
+      "back": "country\nOn: こく\nKun: くに",
+      "hint": "こく (koku)"
+    },
+    {
+      "front": "語",
+      "back": "language; word\nOn: ご\nKun: かた(る)",
+      "hint": "ご (go)"
+    },
+    {
+      "front": "言",
+      "back": "say; word\nOn: げん、ごん\nKun: い(う)、こと",
+      "hint": "げん (gen)"
+    },
+    {
+      "front": "話",
+      "back": "speak; story\nOn: わ\nKun: はな(す)、はなし",
+      "hint": "わ (wa)"
+    },
+    {
+      "front": "読",
+      "back": "read\nOn: どく、とく\nKun: よ(む)",
+      "hint": "どく (doku)"
+    },
+    {
+      "front": "書",
+      "back": "write\nOn: しょ\nKun: か(く)",
+      "hint": "しょ (sho)"
+    },
+    {
+      "front": "見",
+      "back": "see; look\nOn: けん\nKun: み(る)",
+      "hint": "けん (ken)"
+    },
+    {
+      "front": "聞",
+      "back": "hear; ask\nOn: ぶん、もん\nKun: き(く)",
+      "hint": "ぶん (bun)"
+    },
+    {
+      "front": "食",
+      "back": "eat; food\nOn: しょく\nKun: た(べる)",
+      "hint": "しょく (shoku)"
+    },
+    {
+      "front": "飲",
+      "back": "drink\nOn: いん\nKun: の(む)",
+      "hint": "いん (in)"
+    },
+    {
+      "front": "来",
+      "back": "come\nOn: らい\nKun: く(る)",
+      "hint": "らい (rai)"
+    },
+    {
+      "front": "行",
+      "back": "go\nOn: こう、ぎょう\nKun: い(く)",
+      "hint": "こう (kou)"
+    },
+    {
+      "front": "帰",
+      "back": "return home\nOn: き\nKun: かえ(る)",
+      "hint": "き (ki)"
+    },
+    {
+      "front": "入",
+      "back": "enter\nOn: にゅう\nKun: い(る)、い(れる)",
+      "hint": "にゅう (nyuu)"
+    },
+    {
+      "front": "出",
+      "back": "exit; appear\nOn: しゅつ\nKun: で(る)、だ(す)",
+      "hint": "しゅつ (shutsu)"
+    },
+    {
+      "front": "立",
+      "back": "stand\nOn: りつ、りゅう\nKun: た(つ)",
+      "hint": "りつ (ritsu)"
+    },
+    {
+      "front": "休",
+      "back": "rest; holiday\nOn: きゅう\nKun: やす(む)",
+      "hint": "きゅう (kyuu)"
+    },
+    {
+      "front": "友",
+      "back": "friend\nOn: ゆう\nKun: とも",
+      "hint": "ゆう (yuu)"
+    },
+    {
+      "front": "体",
+      "back": "body\nOn: たい、てい\nKun: からだ",
+      "hint": "たい (tai)"
+    },
+    {
+      "front": "手",
+      "back": "hand\nOn: しゅ\nKun: て",
+      "hint": "しゅ (shu)"
+    },
+    {
+      "front": "目",
+      "back": "eye\nOn: もく、ぼく\nKun: め",
+      "hint": "もく (moku)"
+    },
+    {
+      "front": "耳",
+      "back": "ear\nOn: じ\nKun: みみ",
+      "hint": "じ (ji)"
+    },
+    {
+      "front": "足",
+      "back": "foot; leg\nOn: そく\nKun: あし",
+      "hint": "そく (soku)"
+    },
+    {
+      "front": "雨",
+      "back": "rain\nOn: う\nKun: あめ",
+      "hint": "う (u)"
+    },
+    {
+      "front": "電",
+      "back": "electricity\nOn: でん\nKun: —",
+      "hint": "でん (den)"
+    },
+    {
+      "front": "車",
+      "back": "car; vehicle\nOn: しゃ\nKun: くるま",
+      "hint": "しゃ (sha)"
+    },
+    {
+      "front": "右",
+      "back": "right direction\nOn: う、ゆう\nKun: みぎ",
+      "hint": "う (u)"
+    },
+    {
+      "front": "左",
+      "back": "left direction\nOn: さ\nKun: ひだり",
+      "hint": "さ (sa)"
+    },
+    {
+      "front": "花",
+      "back": "flower\nOn: か\nKun: はな",
+      "hint": "か (ka)"
+    }
+  ]
+}

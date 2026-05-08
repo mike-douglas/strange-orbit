@@ -1,0 +1,392 @@
+{
+  "title": "N5 Expressions & Function Words",
+  "description": "Pronouns, demonstratives (これ/それ/あれ), question words, adverbs, and greetings.",
+  "libraryLastUpdated": "2026-05-08T00:00:00Z",
+  "icon": {
+    "type": "emoji",
+    "emoji": "💬",
+    "color": "#27AE60"
+  },
+  "cards": [
+    {
+      "front": "私 (わたし)",
+      "back": "I; me",
+      "hint": "watashi"
+    },
+    {
+      "front": "僕 (ぼく)",
+      "back": "I; me",
+      "hint": "boku"
+    },
+    {
+      "front": "あなた",
+      "back": "you",
+      "hint": "anata"
+    },
+    {
+      "front": "彼 (かれ)",
+      "back": "he; him",
+      "hint": "kare"
+    },
+    {
+      "front": "彼女 (かのじょ)",
+      "back": "she; her",
+      "hint": "kanojo"
+    },
+    {
+      "front": "これ",
+      "back": "this; this one",
+      "hint": "kore"
+    },
+    {
+      "front": "それ",
+      "back": "that; it",
+      "hint": "sore"
+    },
+    {
+      "front": "あれ",
+      "back": "that; that thing",
+      "hint": "are"
+    },
+    {
+      "front": "どれ",
+      "back": "which (of three or more)",
+      "hint": "dore"
+    },
+    {
+      "front": "この",
+      "back": "nine; 9",
+      "hint": "kono"
+    },
+    {
+      "front": "その",
+      "back": "that; the",
+      "hint": "sono"
+    },
+    {
+      "front": "あの",
+      "back": "that; those; the",
+      "hint": "ano"
+    },
+    {
+      "front": "どの",
+      "back": "Mr.; Mrs.; Miss",
+      "hint": "dono"
+    },
+    {
+      "front": "ここ",
+      "back": "here; this place",
+      "hint": "koko"
+    },
+    {
+      "front": "そこ",
+      "back": "there (place relatively near listener)",
+      "hint": "soko"
+    },
+    {
+      "front": "あそこ",
+      "back": "there; over there; that place",
+      "hint": "asoko"
+    },
+    {
+      "front": "どこ",
+      "back": "where; what place",
+      "hint": "doko"
+    },
+    {
+      "front": "こちら",
+      "back": "this way; this direction",
+      "hint": "kochira"
+    },
+    {
+      "front": "そちら",
+      "back": "that way; that direction",
+      "hint": "sochira"
+    },
+    {
+      "front": "あちら",
+      "back": "that way; that direction; over there",
+      "hint": "achira"
+    },
+    {
+      "front": "どちら",
+      "back": "which way; which direction; where",
+      "hint": "dochira"
+    },
+    {
+      "front": "こんな",
+      "back": "this sort of; this kind of; like this",
+      "hint": "konna"
+    },
+    {
+      "front": "そんな",
+      "back": "such; that sort of; that kind of",
+      "hint": "sonna"
+    },
+    {
+      "front": "あんな",
+      "back": "that sort of; that kind of; like that",
+      "hint": "anna"
+    },
+    {
+      "front": "どんな",
+      "back": "what kind of; what sort of; what",
+      "hint": "donna"
+    },
+    {
+      "front": "何 (なに)",
+      "back": "what",
+      "hint": "nani"
+    },
+    {
+      "front": "誰 (だれ)",
+      "back": "who",
+      "hint": "dare"
+    },
+    {
+      "front": "いつ",
+      "back": "when; at what time; how soon",
+      "hint": "itsu"
+    },
+    {
+      "front": "どう",
+      "back": "\"as above\" mark",
+      "hint": "dou"
+    },
+    {
+      "front": "なぜ",
+      "back": "why; how; for what reason",
+      "hint": "naze"
+    },
+    {
+      "front": "どうして",
+      "back": "how; in what way; by what means",
+      "hint": "doushite"
+    },
+    {
+      "front": "いくつ",
+      "back": "how many",
+      "hint": "ikutsu"
+    },
+    {
+      "front": "いくら",
+      "back": "salted salmon roe",
+      "hint": "ikura"
+    },
+    {
+      "front": "どのくらい",
+      "back": "how long; how far; how much",
+      "hint": "donokurai"
+    },
+    {
+      "front": "もう",
+      "back": "already; yet; by now",
+      "hint": "mou"
+    },
+    {
+      "front": "まだ",
+      "back": "still; as yet; only",
+      "hint": "mada"
+    },
+    {
+      "front": "また",
+      "back": "groin; thigh; crotch",
+      "hint": "mata"
+    },
+    {
+      "front": "もっと",
+      "back": "(some) more; even more; longer",
+      "hint": "motto"
+    },
+    {
+      "front": "ちょっと",
+      "back": "a little; a bit; slightly",
+      "hint": "chotto"
+    },
+    {
+      "front": "たくさん",
+      "back": "a lot; lots; plenty",
+      "hint": "takusan"
+    },
+    {
+      "front": "みんな",
+      "back": "everyone; everybody; all",
+      "hint": "minna"
+    },
+    {
+      "front": "あまり",
+      "back": "remainder; remnant; rest",
+      "hint": "amari"
+    },
+    {
+      "front": "ぜんぜん",
+      "back": "(not) at all; (not) in the slightest",
+      "hint": "zenzen"
+    },
+    {
+      "front": "よく",
+      "back": "greed; craving; desire",
+      "hint": "yoku"
+    },
+    {
+      "front": "だいたい",
+      "back": "generally; on the whole; mostly",
+      "hint": "daitai"
+    },
+    {
+      "front": "ゆっくり",
+      "back": "slowly; unhurriedly; without haste",
+      "hint": "yukkuri"
+    },
+    {
+      "front": "すぐ",
+      "back": "immediately; at once; right away",
+      "hint": "sugu"
+    },
+    {
+      "front": "とても",
+      "back": "very; awfully; exceedingly",
+      "hint": "totemo"
+    },
+    {
+      "front": "少し (すこし)",
+      "back": "a little; a bit; a small amount",
+      "hint": "sukoshi"
+    },
+    {
+      "front": "一緒に (いっしょに)",
+      "back": "together (with)",
+      "hint": "isshoni"
+    },
+    {
+      "front": "ときどき",
+      "back": "sometimes; occasionally; at times",
+      "hint": "tokidoki"
+    },
+    {
+      "front": "いつも",
+      "back": "always; all the time; at all times",
+      "hint": "itsumo"
+    },
+    {
+      "front": "たいてい",
+      "back": "mostly; ordinarily; usually",
+      "hint": "taitei"
+    },
+    {
+      "front": "はじめて",
+      "back": "for the first time",
+      "hint": "hajimete"
+    },
+    {
+      "front": "もちろん",
+      "back": "of course; certainly; naturally",
+      "hint": "mochiron"
+    },
+    {
+      "front": "ありがとう",
+      "back": "thank you; thanks",
+      "hint": "arigatou"
+    },
+    {
+      "front": "すみません",
+      "back": "excuse me; pardon me; I'm sorry",
+      "hint": "sumimasen"
+    },
+    {
+      "front": "ごめんなさい",
+      "back": "I'm sorry; my apologies; excuse me",
+      "hint": "gomennasai"
+    },
+    {
+      "front": "はい",
+      "back": "yes; that is correct",
+      "hint": "hai"
+    },
+    {
+      "front": "いいえ",
+      "back": "no",
+      "hint": "iie"
+    },
+    {
+      "front": "どうぞ",
+      "back": "please; kindly; pray",
+      "hint": "douzo"
+    },
+    {
+      "front": "どうも",
+      "back": "thank you; thanks",
+      "hint": "doumo"
+    },
+    {
+      "front": "さようなら",
+      "back": "farewell; adieu; goodbye",
+      "hint": "sayounara"
+    },
+    {
+      "front": "おはようございます",
+      "back": "good morning",
+      "hint": "ohayougozaimasu"
+    },
+    {
+      "front": "こんにちは",
+      "back": "hello; good day; good afternoon",
+      "hint": "konnichiha"
+    },
+    {
+      "front": "こんばんは",
+      "back": "good evening",
+      "hint": "konbanha"
+    },
+    {
+      "front": "おやすみなさい",
+      "back": "good night",
+      "hint": "oyasuminasai"
+    },
+    {
+      "front": "いってきます",
+      "back": "I'm off (and will be back later); see you later",
+      "hint": "ittekimasu"
+    },
+    {
+      "front": "いってらっしゃい",
+      "back": "have a good day; take care; see you",
+      "hint": "itterasshai"
+    },
+    {
+      "front": "ただいま",
+      "back": "I'm home!; I'm back!; it's me!",
+      "hint": "tadaima"
+    },
+    {
+      "front": "おかえりなさい",
+      "back": "welcome home",
+      "hint": "okaerinasai"
+    },
+    {
+      "front": "いただきます",
+      "back": "thank you (for the meal just served); I receive (this meal)",
+      "hint": "itadakimasu"
+    },
+    {
+      "front": "ごちそうさまでした",
+      "back": "thank you for the meal; that was a delicious meal; what a wonderful meal",
+      "hint": "gochisousamadeshita"
+    },
+    {
+      "front": "よろしくお願いします (よろしくおねがいします)",
+      "back": "please remember me; please help me; please treat me well",
+      "hint": "yoroshikuonegaishimasu"
+    },
+    {
+      "front": "初めまして (はじめまして)",
+      "back": "nice to meet you; I'm glad to make your acquaintance; how do you do?",
+      "hint": "hajimemashite"
+    },
+    {
+      "front": "どうぞよろしく",
+      "back": "pleased to meet you; how do you do",
+      "hint": "douzoyoroshiku"
+    }
+  ]
+}

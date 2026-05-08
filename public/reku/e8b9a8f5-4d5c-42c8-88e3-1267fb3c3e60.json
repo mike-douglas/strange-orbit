@@ -1,0 +1,427 @@
+{
+  "title": "N5 Adjectives",
+  "description": "い-adjectives and な-adjectives required for N5.",
+  "libraryLastUpdated": "2026-05-08T00:00:00Z",
+  "icon": {
+    "type": "emoji",
+    "emoji": "🌈",
+    "color": "#9B59B6"
+  },
+  "cards": [
+    {
+      "front": "大きい (おおきい)",
+      "back": "big; large; great",
+      "hint": "ookii"
+    },
+    {
+      "front": "小さい (ちいさい)",
+      "back": "small; little; tiny",
+      "hint": "chiisai"
+    },
+    {
+      "front": "高い (たかい)",
+      "back": "high; tall",
+      "hint": "takai"
+    },
+    {
+      "front": "低い (ひくい)",
+      "back": "low (rank, degree, value, content, quality, etc.)",
+      "hint": "hikui"
+    },
+    {
+      "front": "長い (ながい)",
+      "back": "long (distance, length)",
+      "hint": "nagai"
+    },
+    {
+      "front": "短い (みじかい)",
+      "back": "short",
+      "hint": "mijikai"
+    },
+    {
+      "front": "広い (ひろい)",
+      "back": "spacious; vast; wide",
+      "hint": "hiroi"
+    },
+    {
+      "front": "狭い (せまい)",
+      "back": "narrow; confined; small",
+      "hint": "semai"
+    },
+    {
+      "front": "多い (おおい)",
+      "back": "many; numerous; a lot",
+      "hint": "ooi"
+    },
+    {
+      "front": "少ない (すくない)",
+      "back": "few; little; small (amount)",
+      "hint": "sukunai"
+    },
+    {
+      "front": "新しい (あたらしい)",
+      "back": "new; novel; fresh",
+      "hint": "atarashii"
+    },
+    {
+      "front": "古い (ふるい)",
+      "back": "old; aged; ancient",
+      "hint": "furui"
+    },
+    {
+      "front": "若い (わかい)",
+      "back": "young; youthful",
+      "hint": "wakai"
+    },
+    {
+      "front": "暑い (あつい)",
+      "back": "hot; warm; sultry",
+      "hint": "atsui"
+    },
+    {
+      "front": "寒い (さむい)",
+      "back": "cold (e.g. weather)",
+      "hint": "samui"
+    },
+    {
+      "front": "暖かい (あたたかい)",
+      "back": "warm; mild; (pleasantly) hot",
+      "hint": "atatakai"
+    },
+    {
+      "front": "涼しい (すずしい)",
+      "back": "cool; refreshing",
+      "hint": "suzushii"
+    },
+    {
+      "front": "熱い (あつい)",
+      "back": "hot (to the touch)",
+      "hint": "atsui"
+    },
+    {
+      "front": "冷たい (つめたい)",
+      "back": "cold (to the touch); chilly; icy",
+      "hint": "tsumetai"
+    },
+    {
+      "front": "おいしい",
+      "back": "good(-tasting); nice; delicious",
+      "hint": "oishii"
+    },
+    {
+      "front": "まずい",
+      "back": "bad(-tasting); unpalatable; unsavoury",
+      "hint": "mazui"
+    },
+    {
+      "front": "いい",
+      "back": "having fun; rejoicing",
+      "hint": "ii"
+    },
+    {
+      "front": "良い (よい)",
+      "back": "good; excellent; fine",
+      "hint": "yoi"
+    },
+    {
+      "front": "悪い (わるい)",
+      "back": "bad; poor; undesirable",
+      "hint": "warui"
+    },
+    {
+      "front": "面白い (おもしろい)",
+      "back": "interesting; fascinating; intriguing",
+      "hint": "omoshiroi"
+    },
+    {
+      "front": "つまらない",
+      "back": "dull; uninteresting; boring",
+      "hint": "tsumaranai"
+    },
+    {
+      "front": "楽しい (たのしい)",
+      "back": "enjoyable; fun; pleasant",
+      "hint": "tanoshii"
+    },
+    {
+      "front": "悲しい (かなしい)",
+      "back": "sad; miserable; unhappy",
+      "hint": "kanashii"
+    },
+    {
+      "front": "怖い (こわい)",
+      "back": "scary; frightening; eerie",
+      "hint": "kowai"
+    },
+    {
+      "front": "難しい (むずかしい)",
+      "back": "difficult; hard; troublesome",
+      "hint": "muzukashii"
+    },
+    {
+      "front": "易しい (やさしい)",
+      "back": "easy; plain; simple",
+      "hint": "yasashii"
+    },
+    {
+      "front": "忙しい (いそがしい)",
+      "back": "busy; occupied; hectic",
+      "hint": "isogashii"
+    },
+    {
+      "front": "遠い (とおい)",
+      "back": "far; distant; far away",
+      "hint": "tooi"
+    },
+    {
+      "front": "近い (ちかい)",
+      "back": "near; close; short (distance)",
+      "hint": "chikai"
+    },
+    {
+      "front": "早い (はやい)",
+      "back": "fast; quick; rapid",
+      "hint": "hayai"
+    },
+    {
+      "front": "遅い (おそい)",
+      "back": "slow",
+      "hint": "osoi"
+    },
+    {
+      "front": "速い (はやい)",
+      "back": "fast; quick; rapid",
+      "hint": "hayai"
+    },
+    {
+      "front": "重い (おもい)",
+      "back": "heavy; weighty",
+      "hint": "omoi"
+    },
+    {
+      "front": "軽い (かるい)",
+      "back": "light (i.e. not heavy); feeling light (i.e. offering little resistance, moving easily)",
+      "hint": "karui"
+    },
+    {
+      "front": "明るい (あかるい)",
+      "back": "light; bright; well-lit",
+      "hint": "akarui"
+    },
+    {
+      "front": "暗い (くらい)",
+      "back": "dark; gloomy; murky",
+      "hint": "kurai"
+    },
+    {
+      "front": "白い (しろい)",
+      "back": "white",
+      "hint": "shiroi"
+    },
+    {
+      "front": "黒い (くろい)",
+      "back": "black",
+      "hint": "kuroi"
+    },
+    {
+      "front": "赤い (あかい)",
+      "back": "red; crimson; scarlet",
+      "hint": "akai"
+    },
+    {
+      "front": "青い (あおい)",
+      "back": "blue; azure",
+      "hint": "aoi"
+    },
+    {
+      "front": "かわいい",
+      "back": "cute; adorable; charming",
+      "hint": "kawaii"
+    },
+    {
+      "front": "汚い (きたない)",
+      "back": "dirty; filthy; foul",
+      "hint": "kitanai"
+    },
+    {
+      "front": "優しい (やさしい)",
+      "back": "tender; kind; gentle",
+      "hint": "yasashii"
+    },
+    {
+      "front": "辛い (からい)",
+      "back": "spicy; hot",
+      "hint": "karai"
+    },
+    {
+      "front": "甘い (あまい)",
+      "back": "sweet-tasting; sweet; sugary",
+      "hint": "amai"
+    },
+    {
+      "front": "痛い (いたい)",
+      "back": "painful; sore",
+      "hint": "itai"
+    },
+    {
+      "front": "眠い (ねむい)",
+      "back": "sleepy; drowsy; somnolent",
+      "hint": "nemui"
+    },
+    {
+      "front": "正しい (ただしい)",
+      "back": "right; correct",
+      "hint": "tadashii"
+    },
+    {
+      "front": "丸い (まるい)",
+      "back": "round; circular; spherical",
+      "hint": "marui"
+    },
+    {
+      "front": "四角い (しかくい)",
+      "back": "square; rectangular",
+      "hint": "shikakui"
+    },
+    {
+      "front": "きれい",
+      "back": "pretty; lovely; beautiful",
+      "hint": "kirei"
+    },
+    {
+      "front": "有名 (ゆうめい)",
+      "back": "famous; well-known",
+      "hint": "yuumei"
+    },
+    {
+      "front": "便利 (べんり)",
+      "back": "convenient; handy; useful",
+      "hint": "benri"
+    },
+    {
+      "front": "大切 (たいせつ)",
+      "back": "important; significant; serious",
+      "hint": "taisetsu"
+    },
+    {
+      "front": "大変 (たいへん)",
+      "back": "very; greatly; terribly",
+      "hint": "taihen"
+    },
+    {
+      "front": "元気 (げんき)",
+      "back": "lively; full of spirit; energetic",
+      "hint": "genki"
+    },
+    {
+      "front": "上手 (じょうず)",
+      "back": "skillful; skilled; proficient",
+      "hint": "jouzu"
+    },
+    {
+      "front": "下手 (へた)",
+      "back": "humble position; inferior",
+      "hint": "heta"
+    },
+    {
+      "front": "好き (すき)",
+      "back": "liking; being fond of; to one's liking",
+      "hint": "suki"
+    },
+    {
+      "front": "嫌い (きらい)",
+      "back": "disliked; hated; disagreeable",
+      "hint": "kirai"
+    },
+    {
+      "front": "丈夫 (じょうぶ)",
+      "back": "healthy; robust; strong",
+      "hint": "joubu"
+    },
+    {
+      "front": "親切 (しんせつ)",
+      "back": "kind; gentle; considerate",
+      "hint": "shinsetsu"
+    },
+    {
+      "front": "暇 (ひま)",
+      "back": "spare time; free time; leisure",
+      "hint": "hima"
+    },
+    {
+      "front": "静か (しずか)",
+      "back": "quiet; silent",
+      "hint": "shizuka"
+    },
+    {
+      "front": "賑やか (にぎやか)",
+      "back": "bustling; busy; crowded",
+      "hint": "nigiyaka"
+    },
+    {
+      "front": "簡単 (かんたん)",
+      "back": "simple; easy; uncomplicated",
+      "hint": "kantan"
+    },
+    {
+      "front": "大丈夫 (だいじょうぶ)",
+      "back": "safe; secure; sound",
+      "hint": "daijoubu"
+    },
+    {
+      "front": "いろいろ",
+      "back": "various; a variety of; all sorts of",
+      "hint": "iroiro"
+    },
+    {
+      "front": "特別 (とくべつ)",
+      "back": "special; particular; extraordinary",
+      "hint": "tokubetsu"
+    },
+    {
+      "front": "安全 (あんぜん)",
+      "back": "safety; security",
+      "hint": "anzen"
+    },
+    {
+      "front": "危険 (きけん)",
+      "back": "danger; peril; hazard",
+      "hint": "kiken"
+    },
+    {
+      "front": "必要 (ひつよう)",
+      "back": "necessary; needed; essential",
+      "hint": "hitsuyou"
+    },
+    {
+      "front": "大好き (だいすき)",
+      "back": "liking very much; loving (something or someone); adoring",
+      "hint": "daisuki"
+    },
+    {
+      "front": "嫌 (いや)",
+      "back": "disliking; not wanting; unwilling (to do)",
+      "hint": "iya"
+    },
+    {
+      "front": "駄目 (だめ)",
+      "back": "no good; not serving its purpose; useless",
+      "hint": "dame"
+    },
+    {
+      "front": "素敵 (すてき)",
+      "back": "lovely; wonderful; charming",
+      "hint": "suteki"
+    },
+    {
+      "front": "変 (へん)",
+      "back": "strange; odd; peculiar",
+      "hint": "hen"
+    },
+    {
+      "front": "同じ (おなじ)",
+      "back": "same; identical; equal",
+      "hint": "onaji"
+    }
+  ]
+}

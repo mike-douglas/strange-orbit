@@ -1,0 +1,417 @@
+{
+  "title": "N5 Verbs",
+  "description": "~80 essential N5 verbs covering everyday actions.",
+  "libraryLastUpdated": "2026-05-08T00:00:00Z",
+  "icon": {
+    "type": "emoji",
+    "emoji": "🏃",
+    "color": "#E74C3C"
+  },
+  "cards": [
+    {
+      "front": "する",
+      "back": "to do; to carry out; to perform",
+      "hint": "suru"
+    },
+    {
+      "front": "来る (くる)",
+      "back": "to come (spatially or temporally); to approach; to arrive",
+      "hint": "kuru"
+    },
+    {
+      "front": "行く (いく)",
+      "back": "to go; to move (towards); to head (towards)",
+      "hint": "iku"
+    },
+    {
+      "front": "帰る (かえる)",
+      "back": "to return; to come home; to go home",
+      "hint": "kaeru"
+    },
+    {
+      "front": "見る (みる)",
+      "back": "to see; to look; to watch",
+      "hint": "miru"
+    },
+    {
+      "front": "聞く (きく)",
+      "back": "to hear",
+      "hint": "kiku"
+    },
+    {
+      "front": "読む (よむ)",
+      "back": "to read",
+      "hint": "yomu"
+    },
+    {
+      "front": "書く (かく)",
+      "back": "to write; to compose; to pen",
+      "hint": "kaku"
+    },
+    {
+      "front": "食べる (たべる)",
+      "back": "to eat",
+      "hint": "taberu"
+    },
+    {
+      "front": "飲む (のむ)",
+      "back": "to drink; to swallow; to take (medicine)",
+      "hint": "nomu"
+    },
+    {
+      "front": "寝る (ねる)",
+      "back": "to sleep (lying down)",
+      "hint": "neru"
+    },
+    {
+      "front": "起きる (おきる)",
+      "back": "to get up; to rise; to blaze up (fire)",
+      "hint": "okiru"
+    },
+    {
+      "front": "入る (はいる)",
+      "back": "to enter; to come in; to go in",
+      "hint": "hairu"
+    },
+    {
+      "front": "出る (でる)",
+      "back": "to leave; to exit; to go out",
+      "hint": "deru"
+    },
+    {
+      "front": "買う (かう)",
+      "back": "to buy; to purchase",
+      "hint": "kau"
+    },
+    {
+      "front": "売る (うる)",
+      "back": "to sell",
+      "hint": "uru"
+    },
+    {
+      "front": "言う (いう)",
+      "back": "to say; to utter; to declare",
+      "hint": "iu"
+    },
+    {
+      "front": "分かる (わかる)",
+      "back": "to understand; to comprehend; to grasp",
+      "hint": "wakaru"
+    },
+    {
+      "front": "ある",
+      "back": "to be; to exist; to live",
+      "hint": "aru"
+    },
+    {
+      "front": "いる",
+      "back": "to shoot (arrow, bolt, dart)",
+      "hint": "iru"
+    },
+    {
+      "front": "持つ (もつ)",
+      "back": "to hold (in one's hand); to take; to carry",
+      "hint": "motsu"
+    },
+    {
+      "front": "置く (おく)",
+      "back": "to put; to place",
+      "hint": "oku"
+    },
+    {
+      "front": "取る (とる)",
+      "back": "to take; to pick up; to grab",
+      "hint": "toru"
+    },
+    {
+      "front": "使う (つかう)",
+      "back": "to use (a tool, method, etc.); to make use of; to put to use",
+      "hint": "tsukau"
+    },
+    {
+      "front": "遊ぶ (あそぶ)",
+      "back": "to play (games, sports); to enjoy oneself; to have a good time",
+      "hint": "asobu"
+    },
+    {
+      "front": "教える (おしえる)",
+      "back": "to teach; to instruct",
+      "hint": "oshieru"
+    },
+    {
+      "front": "習う (ならう)",
+      "back": "to take lessons in; to be taught; to learn (from a teacher)",
+      "hint": "narau"
+    },
+    {
+      "front": "話す (はなす)",
+      "back": "to talk; to speak; to converse",
+      "hint": "hanasu"
+    },
+    {
+      "front": "待つ (まつ)",
+      "back": "to wait",
+      "hint": "matsu"
+    },
+    {
+      "front": "会う (あう)",
+      "back": "to meet; to encounter; to see",
+      "hint": "au"
+    },
+    {
+      "front": "住む (すむ)",
+      "back": "to live (of humans); to reside; to inhabit",
+      "hint": "sumu"
+    },
+    {
+      "front": "死ぬ (しぬ)",
+      "back": "to die; to pass away",
+      "hint": "shinu"
+    },
+    {
+      "front": "生まれる (うまれる)",
+      "back": "to be born",
+      "hint": "umareru"
+    },
+    {
+      "front": "あげる",
+      "back": "to raise; to elevate",
+      "hint": "ageru"
+    },
+    {
+      "front": "もらう",
+      "back": "to receive; to take; to accept",
+      "hint": "morau"
+    },
+    {
+      "front": "借りる (かりる)",
+      "back": "to borrow",
+      "hint": "kariru"
+    },
+    {
+      "front": "貸す (かす)",
+      "back": "to lend; to loan",
+      "hint": "kasu"
+    },
+    {
+      "front": "なる",
+      "back": "to become; to get; to grow",
+      "hint": "naru"
+    },
+    {
+      "front": "開く (あく)",
+      "back": "to open; to undo; to unseal",
+      "hint": "aku"
+    },
+    {
+      "front": "閉まる (しまる)",
+      "back": "to be shut; to close; to be closed",
+      "hint": "shimaru"
+    },
+    {
+      "front": "開ける (あける)",
+      "back": "to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock",
+      "hint": "akeru"
+    },
+    {
+      "front": "閉める (しめる)",
+      "back": "to close; to shut",
+      "hint": "shimeru"
+    },
+    {
+      "front": "呼ぶ (よぶ)",
+      "back": "to call out (to); to call; to invoke",
+      "hint": "yobu"
+    },
+    {
+      "front": "送る (おくる)",
+      "back": "to send; to dispatch; to forward",
+      "hint": "okuru"
+    },
+    {
+      "front": "働く (はたらく)",
+      "back": "to work; to labor; to labour",
+      "hint": "hataraku"
+    },
+    {
+      "front": "休む (やすむ)",
+      "back": "to be absent; to take a day off",
+      "hint": "yasumu"
+    },
+    {
+      "front": "歩く (あるく)",
+      "back": "to walk",
+      "hint": "aruku"
+    },
+    {
+      "front": "走る (はしる)",
+      "back": "to run",
+      "hint": "hashiru"
+    },
+    {
+      "front": "乗る (のる)",
+      "back": "to get on (train, plane, bus, ship, etc.); to get in; to board",
+      "hint": "noru"
+    },
+    {
+      "front": "降りる (おりる)",
+      "back": "to descend (e.g. a mountain); to go down; to come down",
+      "hint": "oriru"
+    },
+    {
+      "front": "見せる (みせる)",
+      "back": "to show; to display",
+      "hint": "miseru"
+    },
+    {
+      "front": "思う (おもう)",
+      "back": "to think; to consider; to believe",
+      "hint": "omou"
+    },
+    {
+      "front": "知る (しる)",
+      "back": "to know; to be aware (of); to be conscious (of)",
+      "hint": "shiru"
+    },
+    {
+      "front": "忘れる (わすれる)",
+      "back": "to forget; to leave carelessly; to be forgetful of",
+      "hint": "wasureru"
+    },
+    {
+      "front": "作る (つくる)",
+      "back": "to make; to produce; to manufacture",
+      "hint": "tsukuru"
+    },
+    {
+      "front": "洗う (あらう)",
+      "back": "to wash; to cleanse; to rinse",
+      "hint": "arau"
+    },
+    {
+      "front": "着る (きる)",
+      "back": "to wear (from the shoulders down); to put on",
+      "hint": "kiru"
+    },
+    {
+      "front": "脱ぐ (ぬぐ)",
+      "back": "to take off (clothes, shoes, etc.); to undress",
+      "hint": "nugu"
+    },
+    {
+      "front": "履く (はく)",
+      "back": "to put on (lower-body clothing, e.g. pants, skirt, footwear); to wear",
+      "hint": "haku"
+    },
+    {
+      "front": "泳ぐ (およぐ)",
+      "back": "to swim",
+      "hint": "oyogu"
+    },
+    {
+      "front": "飛ぶ (とぶ)",
+      "back": "to fly; to soar",
+      "hint": "tobu"
+    },
+    {
+      "front": "引く (ひく)",
+      "back": "to pull; to tug; to lead (e.g. a horse)",
+      "hint": "hiku"
+    },
+    {
+      "front": "押す (おす)",
+      "back": "to push; to thrust; to shove",
+      "hint": "osu"
+    },
+    {
+      "front": "切る (きる)",
+      "back": "to cut; to cut through; to perform (surgery)",
+      "hint": "kiru"
+    },
+    {
+      "front": "消す (けす)",
+      "back": "to erase; to rub out; to rub off",
+      "hint": "kesu"
+    },
+    {
+      "front": "付ける (つける)",
+      "back": "to attach; to join; to connect",
+      "hint": "tsukeru"
+    },
+    {
+      "front": "止まる (とまる)",
+      "back": "to stop (moving); to come to a stop",
+      "hint": "tomaru"
+    },
+    {
+      "front": "動く (うごく)",
+      "back": "to move; to stir; to shift",
+      "hint": "ugoku"
+    },
+    {
+      "front": "始める (はじめる)",
+      "back": "to start; to begin; to commence",
+      "hint": "hajimeru"
+    },
+    {
+      "front": "終わる (おわる)",
+      "back": "to end; to come to an end; to finish",
+      "hint": "owaru"
+    },
+    {
+      "front": "始まる (はじまる)",
+      "back": "to begin; to start; to commence",
+      "hint": "hajimaru"
+    },
+    {
+      "front": "入れる (いれる)",
+      "back": "to put in; to let in; to take in",
+      "hint": "ireru"
+    },
+    {
+      "front": "出す (だす)",
+      "back": "to take out; to get out",
+      "hint": "dasu"
+    },
+    {
+      "front": "見える (みえる)",
+      "back": "to be seen; to be visible; to be in sight",
+      "hint": "mieru"
+    },
+    {
+      "front": "聞こえる (きこえる)",
+      "back": "to be heard; to be audible; to reach one's ears",
+      "hint": "kikoeru"
+    },
+    {
+      "front": "できる",
+      "back": "to be out of; to have no more at hand",
+      "hint": "dekiru"
+    },
+    {
+      "front": "かかる",
+      "back": "to span; to bridge; to cross",
+      "hint": "kakaru"
+    },
+    {
+      "front": "かける",
+      "back": "to hang up (e.g. a coat, a picture on the wall); to let hang; to suspend (from)",
+      "hint": "kakeru"
+    },
+    {
+      "front": "もつ",
+      "back": "to hold (in one's hand); to take; to carry",
+      "hint": "motsu"
+    },
+    {
+      "front": "あびる",
+      "back": "to dash over oneself (e.g. water); to take (e.g. shower); to bask in (e.g. the sun)",
+      "hint": "abiru"
+    },
+    {
+      "front": "撮る (とる)",
+      "back": "to take (a photograph)",
+      "hint": "toru"
+    }
+  ]
+}

@@ -16,6 +16,38 @@
           "lastUpdated": "2026-05-06T00:00:00Z"
         }
       ]
+    },
+    {
+      "name": "JLPT N5",
+      "description": "Complete vocabulary and kanji set for the JLPT N5 exam, split into focused sub-decks.",
+      "type": "carousel",
+      "decks": [
+        {
+          "id": "7396f166-5358-487a-925a-a23b76480f84",
+          "name": "N5 Nouns",
+          "lastUpdated": "2026-05-08T00:00:00Z"
+        },
+        {
+          "id": "90cad005-1656-47bd-975a-288856edb19f",
+          "name": "N5 Verbs",
+          "lastUpdated": "2026-05-08T00:00:00Z"
+        },
+        {
+          "id": "e8b9a8f5-4d5c-42c8-88e3-1267fb3c3e60",
+          "name": "N5 Adjectives",
+          "lastUpdated": "2026-05-08T00:00:00Z"
+        },
+        {
+          "id": "dfe63f20-2b73-4028-ba31-d5595e8ea121",
+          "name": "N5 Expressions & Function Words",
+          "lastUpdated": "2026-05-08T00:00:00Z"
+        },
+        {
+          "id": "9375e118-9662-4efd-918b-081388820f2b",
+          "name": "N5 Kanji",
+          "lastUpdated": "2026-05-08T00:00:00Z"
+        }
+      ]
     }
   ]
 }

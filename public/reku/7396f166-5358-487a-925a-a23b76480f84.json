@@ -1,0 +1,837 @@
+{
+  "title": "N5 Nouns",
+  "description": "~150 core N5 nouns: time, people, places, objects, food, and more.",
+  "libraryLastUpdated": "2026-05-08T00:00:00Z",
+  "icon": {
+    "type": "emoji",
+    "emoji": "🏠",
+    "color": "#4A90D9"
+  },
+  "cards": [
+    {
+      "front": "朝 (あさ)",
+      "back": "morning",
+      "hint": "asa"
+    },
+    {
+      "front": "昼 (ひる)",
+      "back": "noon; midday",
+      "hint": "hiru"
+    },
+    {
+      "front": "夜 (よる)",
+      "back": "night; evening",
+      "hint": "yoru"
+    },
+    {
+      "front": "夕方 (ゆうがた)",
+      "back": "early evening (usu. from 3pm to 6pm); dusk",
+      "hint": "yuugata"
+    },
+    {
+      "front": "今朝 (けさ)",
+      "back": "this morning",
+      "hint": "kesa"
+    },
+    {
+      "front": "今日 (きょう)",
+      "back": "today; this day",
+      "hint": "kyou"
+    },
+    {
+      "front": "明日 (あした)",
+      "back": "tomorrow",
+      "hint": "ashita"
+    },
+    {
+      "front": "昨日 (きのう)",
+      "back": "yesterday",
+      "hint": "kinou"
+    },
+    {
+      "front": "明後日 (あさって)",
+      "back": "day after tomorrow",
+      "hint": "asatte"
+    },
+    {
+      "front": "一昨日 (おととい)",
+      "back": "day before yesterday",
+      "hint": "ototoi"
+    },
+    {
+      "front": "今週 (こんしゅう)",
+      "back": "this week",
+      "hint": "konshuu"
+    },
+    {
+      "front": "先週 (せんしゅう)",
+      "back": "last week; the week before",
+      "hint": "senshuu"
+    },
+    {
+      "front": "来週 (らいしゅう)",
+      "back": "next week",
+      "hint": "raishuu"
+    },
+    {
+      "front": "今月 (こんげつ)",
+      "back": "this month",
+      "hint": "kongetsu"
+    },
+    {
+      "front": "先月 (せんげつ)",
+      "back": "last month",
+      "hint": "sengetsu"
+    },
+    {
+      "front": "来月 (らいげつ)",
+      "back": "next month",
+      "hint": "raigetsu"
+    },
+    {
+      "front": "今年 (ことし)",
+      "back": "this year",
+      "hint": "kotoshi"
+    },
+    {
+      "front": "去年 (きょねん)",
+      "back": "last year",
+      "hint": "kyonen"
+    },
+    {
+      "front": "来年 (らいねん)",
+      "back": "next year",
+      "hint": "rainen"
+    },
+    {
+      "front": "時間 (じかん)",
+      "back": "time",
+      "hint": "jikan"
+    },
+    {
+      "front": "分 (ふん)",
+      "back": "minute (unit of time)",
+      "hint": "fun"
+    },
+    {
+      "front": "半 (はん)",
+      "back": "half; semi-; partial",
+      "hint": "han"
+    },
+    {
+      "front": "頃 (ごろ)",
+      "back": "(approximate) time; around; about",
+      "hint": "goro"
+    },
+    {
+      "front": "毎日 (まいにち)",
+      "back": "every day; daily",
+      "hint": "mainichi"
+    },
+    {
+      "front": "毎朝 (まいあさ)",
+      "back": "every morning",
+      "hint": "maiasa"
+    },
+    {
+      "front": "毎晩 (まいばん)",
+      "back": "every night",
+      "hint": "maiban"
+    },
+    {
+      "front": "毎週 (まいしゅう)",
+      "back": "every week",
+      "hint": "maishuu"
+    },
+    {
+      "front": "毎月 (まいつき)",
+      "back": "every month; each month; monthly",
+      "hint": "maitsuki"
+    },
+    {
+      "front": "毎年 (まいとし)",
+      "back": "every year; yearly; annually",
+      "hint": "maitoshi"
+    },
+    {
+      "front": "人 (ひと)",
+      "back": "-ian (e.g. Italian); -ite (e.g. Tokyoite)",
+      "hint": "hito"
+    },
+    {
+      "front": "方 (かた)",
+      "back": "direction; way",
+      "hint": "kata"
+    },
+    {
+      "front": "子供 (こども)",
+      "back": "child; children",
+      "hint": "kodomo"
+    },
+    {
+      "front": "男 (おとこ)",
+      "back": "man; male",
+      "hint": "otoko"
+    },
+    {
+      "front": "女 (おんな)",
+      "back": "woman; female",
+      "hint": "onna"
+    },
+    {
+      "front": "男の子 (おとこのこ)",
+      "back": "boy; son; baby boy",
+      "hint": "otokonoko"
+    },
+    {
+      "front": "女の子 (おんなのこ)",
+      "back": "girl; daughter; baby girl",
+      "hint": "onnanoko"
+    },
+    {
+      "front": "大人 (おとな)",
+      "back": "adult; grown-up",
+      "hint": "otona"
+    },
+    {
+      "front": "お父さん (おとうさん)",
+      "back": "father; dad; papa",
+      "hint": "otousan"
+    },
+    {
+      "front": "お母さん (おかあさん)",
+      "back": "mother; mom; mum",
+      "hint": "okaasan"
+    },
+    {
+      "front": "お兄さん (おにいさん)",
+      "back": "older brother; elder brother",
+      "hint": "oniisan"
+    },
+    {
+      "front": "お姉さん (おねえさん)",
+      "back": "older sister; elder sister",
+      "hint": "oneesan"
+    },
+    {
+      "front": "弟 (おとうと)",
+      "back": "younger brother; little brother; kid brother",
+      "hint": "otouto"
+    },
+    {
+      "front": "妹 (いもうと)",
+      "back": "younger sister",
+      "hint": "imouto"
+    },
+    {
+      "front": "友達 (ともだち)",
+      "back": "friend; companion",
+      "hint": "tomodachi"
+    },
+    {
+      "front": "先生 (せんせい)",
+      "back": "teacher; instructor; master",
+      "hint": "sensei"
+    },
+    {
+      "front": "学生 (がくせい)",
+      "back": "student (esp. a university student)",
+      "hint": "gakusei"
+    },
+    {
+      "front": "会社員 (かいしゃいん)",
+      "back": "company employee; office worker; white-collar worker",
+      "hint": "kaishain"
+    },
+    {
+      "front": "医者 (いしゃ)",
+      "back": "doctor; physician",
+      "hint": "isha"
+    },
+    {
+      "front": "家族 (かぞく)",
+      "back": "family",
+      "hint": "kazoku"
+    },
+    {
+      "front": "学校 (がっこう)",
+      "back": "school",
+      "hint": "gakkou"
+    },
+    {
+      "front": "家 (いえ)",
+      "back": "house; residence; dwelling",
+      "hint": "ie"
+    },
+    {
+      "front": "部屋 (へや)",
+      "back": "room; chamber",
+      "hint": "heya"
+    },
+    {
+      "front": "病院 (びょういん)",
+      "back": "hospital; clinic; doctor's office",
+      "hint": "byouin"
+    },
+    {
+      "front": "銀行 (ぎんこう)",
+      "back": "bank; banking institution",
+      "hint": "ginkou"
+    },
+    {
+      "front": "郵便局 (ゆうびんきょく)",
+      "back": "post office",
+      "hint": "yuubinkyoku"
+    },
+    {
+      "front": "駅 (えき)",
+      "back": "railway station; train station",
+      "hint": "eki"
+    },
+    {
+      "front": "公園 (こうえん)",
+      "back": "(public) park",
+      "hint": "kouen"
+    },
+    {
+      "front": "図書館 (としょかん)",
+      "back": "library",
+      "hint": "toshokan"
+    },
+    {
+      "front": "映画館 (えいがかん)",
+      "back": "movie theatre; movie theater; cinema",
+      "hint": "eigakan"
+    },
+    {
+      "front": "レストラン",
+      "back": "restaurant (esp. Western-style)",
+      "hint": "resutoran"
+    },
+    {
+      "front": "食堂 (しょくどう)",
+      "back": "dining room; dining hall; cafeteria",
+      "hint": "shokudou"
+    },
+    {
+      "front": "喫茶店 (きっさてん)",
+      "back": "coffee shop; tearoom; coffee lounge",
+      "hint": "kissaten"
+    },
+    {
+      "front": "スーパー",
+      "back": "supermarket",
+      "hint": "suupaa"
+    },
+    {
+      "front": "デパート",
+      "back": "department store",
+      "hint": "depaato"
+    },
+    {
+      "front": "本屋 (ほんや)",
+      "back": "bookstore; bookshop",
+      "hint": "honya"
+    },
+    {
+      "front": "国 (くに)",
+      "back": "country; state",
+      "hint": "kuni"
+    },
+    {
+      "front": "外国 (がいこく)",
+      "back": "foreign country",
+      "hint": "gaikoku"
+    },
+    {
+      "front": "日本 (にほん)",
+      "back": "Japan",
+      "hint": "nihon"
+    },
+    {
+      "front": "町 (まち)",
+      "back": "town; block; neighbourhood",
+      "hint": "machi"
+    },
+    {
+      "front": "前 (まえ)",
+      "back": "in front (of); before (e.g. a building)",
+      "hint": "mae"
+    },
+    {
+      "front": "後ろ (うしろ)",
+      "back": "back; behind; rear",
+      "hint": "ushiro"
+    },
+    {
+      "front": "右 (みぎ)",
+      "back": "right; right-hand side",
+      "hint": "migi"
+    },
+    {
+      "front": "左 (ひだり)",
+      "back": "left; left-hand side",
+      "hint": "hidari"
+    },
+    {
+      "front": "上 (うえ)",
+      "back": "above; over; up",
+      "hint": "ue"
+    },
+    {
+      "front": "下 (した)",
+      "back": "below; down; under",
+      "hint": "shita"
+    },
+    {
+      "front": "中 (なか)",
+      "back": "inside; interior",
+      "hint": "naka"
+    },
+    {
+      "front": "外 (そと)",
+      "back": "outside; exterior",
+      "hint": "soto"
+    },
+    {
+      "front": "横 (よこ)",
+      "back": "horizontal (as opposed to vertical)",
+      "hint": "yoko"
+    },
+    {
+      "front": "隣 (となり)",
+      "back": "next (to); adjoining; adjacent",
+      "hint": "tonari"
+    },
+    {
+      "front": "近く (ちかく)",
+      "back": "near; neighbourhood; neighborhood",
+      "hint": "chikaku"
+    },
+    {
+      "front": "本 (ほん)",
+      "back": "book; volume; script",
+      "hint": "hon"
+    },
+    {
+      "front": "雑誌 (ざっし)",
+      "back": "magazine; journal; periodical",
+      "hint": "zasshi"
+    },
+    {
+      "front": "新聞 (しんぶん)",
+      "back": "newspaper",
+      "hint": "shinbun"
+    },
+    {
+      "front": "手紙 (てがみ)",
+      "back": "letter; note",
+      "hint": "tegami"
+    },
+    {
+      "front": "電話 (でんわ)",
+      "back": "telephone call; phone call",
+      "hint": "denwa"
+    },
+    {
+      "front": "テレビ",
+      "back": "television; TV",
+      "hint": "terebi"
+    },
+    {
+      "front": "ラジオ",
+      "back": "radio",
+      "hint": "rajio"
+    },
+    {
+      "front": "カメラ",
+      "back": "camera",
+      "hint": "kamera"
+    },
+    {
+      "front": "車 (くるま)",
+      "back": "car; automobile; vehicle",
+      "hint": "kuruma"
+    },
+    {
+      "front": "自転車 (じてんしゃ)",
+      "back": "bicycle; bike",
+      "hint": "jitensha"
+    },
+    {
+      "front": "電車 (でんしゃ)",
+      "back": "train; electric train",
+      "hint": "densha"
+    },
+    {
+      "front": "バス",
+      "back": "bus",
+      "hint": "basu"
+    },
+    {
+      "front": "飛行機 (ひこうき)",
+      "back": "airplane; aeroplane; plane",
+      "hint": "hikouki"
+    },
+    {
+      "front": "机 (つくえ)",
+      "back": "desk",
+      "hint": "tsukue"
+    },
+    {
+      "front": "椅子 (いす)",
+      "back": "chair; seat; stool",
+      "hint": "isu"
+    },
+    {
+      "front": "ベッド",
+      "back": "bed",
+      "hint": "beddo"
+    },
+    {
+      "front": "ドア",
+      "back": "door",
+      "hint": "doa"
+    },
+    {
+      "front": "窓 (まど)",
+      "back": "window",
+      "hint": "mado"
+    },
+    {
+      "front": "鞄 (かばん)",
+      "back": "bag; satchel; briefcase",
+      "hint": "kaban"
+    },
+    {
+      "front": "財布 (さいふ)",
+      "back": "wallet; purse; coin purse",
+      "hint": "saifu"
+    },
+    {
+      "front": "眼鏡 (めがね)",
+      "back": "glasses; eyeglasses; spectacles",
+      "hint": "megane"
+    },
+    {
+      "front": "鍵 (かぎ)",
+      "back": "key",
+      "hint": "kagi"
+    },
+    {
+      "front": "時計 (とけい)",
+      "back": "clock; watch; timepiece",
+      "hint": "tokei"
+    },
+    {
+      "front": "傘 (かさ)",
+      "back": "umbrella; parasol",
+      "hint": "kasa"
+    },
+    {
+      "front": "靴 (くつ)",
+      "back": "shoe; shoes; boots",
+      "hint": "kutsu"
+    },
+    {
+      "front": "服 (ふく)",
+      "back": "clothes (esp. Western clothes); clothing; dress",
+      "hint": "fuku"
+    },
+    {
+      "front": "帽子 (ぼうし)",
+      "back": "hat; cap",
+      "hint": "boushi"
+    },
+    {
+      "front": "写真 (しゃしん)",
+      "back": "photograph; photo; picture",
+      "hint": "shashin"
+    },
+    {
+      "front": "映画 (えいが)",
+      "back": "movie; film; motion picture",
+      "hint": "eiga"
+    },
+    {
+      "front": "音楽 (おんがく)",
+      "back": "music",
+      "hint": "ongaku"
+    },
+    {
+      "front": "ご飯 (ごはん)",
+      "back": "cooked rice",
+      "hint": "gohan"
+    },
+    {
+      "front": "パン",
+      "back": "bread; (sweet) pastry",
+      "hint": "pan"
+    },
+    {
+      "front": "肉 (にく)",
+      "back": "flesh",
+      "hint": "niku"
+    },
+    {
+      "front": "魚 (さかな)",
+      "back": "fish",
+      "hint": "sakana"
+    },
+    {
+      "front": "野菜 (やさい)",
+      "back": "vegetable",
+      "hint": "yasai"
+    },
+    {
+      "front": "果物 (くだもの)",
+      "back": "fruit",
+      "hint": "kudamono"
+    },
+    {
+      "front": "水 (みず)",
+      "back": "water (esp. cool or cold)",
+      "hint": "mizu"
+    },
+    {
+      "front": "お茶 (おちゃ)",
+      "back": "tea (esp. green or barley)",
+      "hint": "ocha"
+    },
+    {
+      "front": "コーヒー",
+      "back": "coffee",
+      "hint": "koohii"
+    },
+    {
+      "front": "牛乳 (ぎゅうにゅう)",
+      "back": "(cow's) milk",
+      "hint": "gyuunyuu"
+    },
+    {
+      "front": "お酒 (おさけ)",
+      "back": "alcohol; sake",
+      "hint": "osake"
+    },
+    {
+      "front": "ビール",
+      "back": "beer",
+      "hint": "biiru"
+    },
+    {
+      "front": "山 (やま)",
+      "back": "mountain; hill",
+      "hint": "yama"
+    },
+    {
+      "front": "川 (かわ)",
+      "back": "river; stream",
+      "hint": "kawa"
+    },
+    {
+      "front": "海 (うみ)",
+      "back": "sea; ocean; waters",
+      "hint": "umi"
+    },
+    {
+      "front": "空 (そら)",
+      "back": "sky; the air; the heavens",
+      "hint": "sora"
+    },
+    {
+      "front": "花 (はな)",
+      "back": "flower; blossom; bloom",
+      "hint": "hana"
+    },
+    {
+      "front": "木 (き)",
+      "back": "tree; shrub; bush",
+      "hint": "ki"
+    },
+    {
+      "front": "雨 (あめ)",
+      "back": "rain",
+      "hint": "ame"
+    },
+    {
+      "front": "雪 (ゆき)",
+      "back": "snow; snowfall",
+      "hint": "yuki"
+    },
+    {
+      "front": "風 (かぜ)",
+      "back": "wind; breeze; draught",
+      "hint": "kaze"
+    },
+    {
+      "front": "天気 (てんき)",
+      "back": "weather",
+      "hint": "tenki"
+    },
+    {
+      "front": "犬 (いぬ)",
+      "back": "dog (Canis (lupus) familiaris); canine",
+      "hint": "inu"
+    },
+    {
+      "front": "猫 (ねこ)",
+      "back": "cat (esp. the domestic cat, Felis catus); feline",
+      "hint": "neko"
+    },
+    {
+      "front": "頭 (あたま)",
+      "back": "head",
+      "hint": "atama"
+    },
+    {
+      "front": "目 (め)",
+      "back": "eye; eyeball",
+      "hint": "me"
+    },
+    {
+      "front": "耳 (みみ)",
+      "back": "ear",
+      "hint": "mimi"
+    },
+    {
+      "front": "鼻 (はな)",
+      "back": "nose",
+      "hint": "hana"
+    },
+    {
+      "front": "口 (くち)",
+      "back": "mouth",
+      "hint": "kuchi"
+    },
+    {
+      "front": "手 (て)",
+      "back": "hand; arm",
+      "hint": "te"
+    },
+    {
+      "front": "足 (あし)",
+      "back": "foot; paw; arm (of an octopus, squid, etc.)",
+      "hint": "ashi"
+    },
+    {
+      "front": "体 (からだ)",
+      "back": "body",
+      "hint": "karada"
+    },
+    {
+      "front": "一つ (ひとつ)",
+      "back": "one",
+      "hint": "hitotsu"
+    },
+    {
+      "front": "二つ (ふたつ)",
+      "back": "two",
+      "hint": "futatsu"
+    },
+    {
+      "front": "三つ (みっつ)",
+      "back": "three",
+      "hint": "mittsu"
+    },
+    {
+      "front": "四つ (よっつ)",
+      "back": "four; 4",
+      "hint": "yottsu"
+    },
+    {
+      "front": "五つ (いつつ)",
+      "back": "five",
+      "hint": "itsutsu"
+    },
+    {
+      "front": "六つ (むっつ)",
+      "back": "six",
+      "hint": "muttsu"
+    },
+    {
+      "front": "七つ (ななつ)",
+      "back": "seven",
+      "hint": "nanatsu"
+    },
+    {
+      "front": "八つ (やっつ)",
+      "back": "eight",
+      "hint": "yattsu"
+    },
+    {
+      "front": "九つ (ここのつ)",
+      "back": "nine",
+      "hint": "kokonotsu"
+    },
+    {
+      "front": "十 (とお)",
+      "back": "ten; 10",
+      "hint": "too"
+    },
+    {
+      "front": "一人 (ひとり)",
+      "back": "one person",
+      "hint": "hitori"
+    },
+    {
+      "front": "二人 (ふたり)",
+      "back": "two persons; two people; pair",
+      "hint": "futari"
+    },
+    {
+      "front": "仕事 (しごと)",
+      "back": "work; job; labor",
+      "hint": "shigoto"
+    },
+    {
+      "front": "授業 (じゅぎょう)",
+      "back": "lesson; class; teaching",
+      "hint": "jugyou"
+    },
+    {
+      "front": "試験 (しけん)",
+      "back": "examination; exam; test",
+      "hint": "shiken"
+    },
+    {
+      "front": "宿題 (しゅくだい)",
+      "back": "homework; assignment",
+      "hint": "shukudai"
+    },
+    {
+      "front": "言葉 (ことば)",
+      "back": "language; dialect",
+      "hint": "kotoba"
+    },
+    {
+      "front": "質問 (しつもん)",
+      "back": "question; inquiry; enquiry",
+      "hint": "shitsumon"
+    },
+    {
+      "front": "答え (こたえ)",
+      "back": "answer; reply; response",
+      "hint": "kotae"
+    },
+    {
+      "front": "名前 (なまえ)",
+      "back": "name",
+      "hint": "namae"
+    },
+    {
+      "front": "住所 (じゅうしょ)",
+      "back": "address (of a home, business, etc.); residence; domicile",
+      "hint": "juusho"
+    },
+    {
+      "front": "お金 (おかね)",
+      "back": "money",
+      "hint": "okane"
+    },
+    {
+      "front": "値段 (ねだん)",
+      "back": "price; cost",
+      "hint": "nedan"
+    }
+  ]
+}
