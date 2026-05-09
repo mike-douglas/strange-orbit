@@ -54,7 +54,7 @@
     {
       "name": "JLPT N5",
       "description": "Complete vocabulary and kanji set for the JLPT N5 exam, split into focused sub-decks.",
-      "type": "carousel",
+      "type": "list",
       "decks": [
         {
           "id": "7396f166-5358-487a-925a-a23b76480f84",
