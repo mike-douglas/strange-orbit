@@ -5,7 +5,8 @@
       "id": "820A5CE3-0FF7-4F8C-AFB9-4165A054278E",
       "lastUpdated": "2026-05-17T00:00:00Z",
       "name": "Hiragana",
-      "description": "All Hiragana Characters",
+      "description": "71 characters covering every hiragana sound. The complete foundation for reading and writing Japanese phonetically.",
+      "intro": "Hiragana (ひらがな) is where Japanese starts. Each character represents a syllable sound like か (ka) or み (mi), and together they cover the entire phonetic range of the language.\n\nThis deck includes the base 46 characters plus the voiced (dakuten) and semi-voiced (handakuten) variants — characters like が (ga) and ぱ (pa) formed by adding a small mark to a base character.\n\nLearn to type these and you can sound out words, read children's books, and start texting in Japanese.",
       "color": "#E0637A",
       "icon": {
         "image": {
@@ -495,7 +496,8 @@
       "id": "103AFA81-A37B-45C3-A6DF-5AB2C594E161",
       "lastUpdated": "2026-05-17T00:00:00Z",
       "name": "Katakana",
-      "description": "All Katakana Characters",
+      "description": "71 characters covering every katakana sound. The same phonetic range as hiragana, in a sharper, angular script.",
+      "intro": "Katakana (カタカナ) represents the exact same sounds as hiragana, just written differently. Its main job is loanwords: コーヒー (kōhī, coffee), テレビ (terebi, TV), アイスクリーム (ice cream).\n\nThis deck includes the full set — base characters plus voiced and semi-voiced variants. Because the sounds map one-to-one with hiragana, it comes faster than you'd expect.\n\nYou'll also see katakana used for emphasis, scientific terms, and foreign names.",
       "color": "#5B8FA8",
       "icon": {
         "image": {
@@ -985,7 +987,8 @@
       "id": "DEE51B02-F80E-4996-A3CB-A21CF4BF644B",
       "lastUpdated": "2026-05-15T17:15:45Z",
       "name": "Simple Words",
-      "description": "Simple Words Using Hiragana and Katakana",
+      "description": "30 short everyday words in hiragana. Practice stringing characters together into real vocabulary.",
+      "intro": "This deck bridges the gap with 30 short common nouns: things like いぬ (inu, dog), つき (tsuki, moon), さくら (sakura, cherry blossom). Typing multi-character words builds a different kind of muscle memory than single kana, and you'll come away with vocabulary you can actually use.",
       "color": "#C8873A",
       "icon": {
         "image": {
@@ -1207,3 +1210,4 @@
     }
   ]
 }
+
