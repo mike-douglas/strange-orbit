@@ -2,5 +2,6 @@
 	"source": "remote",
 	"reviewMilestone": 4,
 	"tipMilestones": [50, 100],
-	"showDebugTools": true
+	"showDebugTools": true,
+	"features": ["userDecks"]
 }
