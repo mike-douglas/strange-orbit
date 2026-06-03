@@ -5,7 +5,7 @@
       "id": "820A5CE3-0FF7-4F8C-AFB9-4165A054278E",
       "lastUpdated": "2026-05-17T00:00:00Z",
       "name": "Hiragana",
-      "description": "Every hiragana sound, from the base characters through voiced and semi-voiced variants.",
+      "description": "The foundation of written Japanese.",
       "intro": "Hiragana (ひらがな) is where Japanese starts. Each character represents a syllable sound like か (ka) or み (mi), and together they cover the entire phonetic range of the language.\n\nThis deck includes the base 46 characters plus the voiced (dakuten) and semi-voiced (handakuten) variants — characters like が (ga) and ぱ (pa) formed by adding a small mark to a base character.\n\nLearn to type these and you can sound out words, read children's books, and start texting in Japanese.",
       "color": "#E0637A",
       "icon": {
@@ -987,7 +987,7 @@
       "id": "DEE51B02-F80E-4996-A3CB-A21CF4BF644B",
       "lastUpdated": "2026-05-15T17:15:45Z",
       "name": "Simple Words",
-      "description": "Short everyday Japanese words in hiragana. Practice stringing characters together into real vocabulary.",
+      "description": "For loanwords, names, and emphasis.",
       "intro": "This deck bridges the gap with 30 short common nouns: things like いぬ (inu, dog), つき (tsuki, moon), さくら (sakura, cherry blossom). Typing multi-character words builds a different kind of muscle memory than single kana, and you'll come away with vocabulary you can actually use.",
       "color": "#C8873A",
       "icon": {
