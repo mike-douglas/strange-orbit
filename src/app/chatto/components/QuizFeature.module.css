@@ -1,0 +1,185 @@
+.section {
+  padding: 100px 40px;
+  background: #f7f7f7;
+}
+
+.inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 80px;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.sectionLabel {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: #aaaaaa;
+}
+
+.heading {
+  font-size: clamp(30px, 4vw, 48px);
+  font-weight: 800;
+  letter-spacing: -1.5px;
+  line-height: 1.1;
+  color: #111111;
+}
+
+.body {
+  font-size: 17px;
+  line-height: 1.65;
+  color: #555555;
+}
+
+.highlights {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.highlight {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 16px 20px;
+}
+
+.highlightKana {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 24px;
+  flex-shrink: 0;
+  width: 80px;
+}
+
+.arrow {
+  font-size: 16px;
+  color: #cccccc;
+}
+
+.highlight p {
+  font-size: 14px;
+  color: #666666;
+  line-height: 1.5;
+  padding-top: 4px;
+}
+
+.caption {
+  font-size: 14px;
+  color: #aaaaaa;
+  letter-spacing: 0.2px;
+}
+
+/* Phone mockup */
+.mockupArea {
+  display: flex;
+  justify-content: center;
+}
+
+.phoneMockup {
+  width: 260px;
+  flex-shrink: 0;
+}
+
+.phoneShell {
+  background: #ffffff;
+  border-radius: 44px;
+  padding: 12px;
+  box-shadow:
+    0 0 0 1px rgba(0, 0, 0, 0.08),
+    0 40px 80px rgba(0, 0, 0, 0.12),
+    0 20px 40px rgba(0, 0, 0, 0.06);
+  position: relative;
+}
+
+.notch {
+  position: absolute;
+  top: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90px;
+  height: 24px;
+  background: #ffffff;
+  border-radius: 9999px;
+  z-index: 2;
+}
+
+.phoneScreen {
+  background: #ffffff;
+  border-radius: 34px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  height: 520px;
+  border: 1px solid #f0f0f0;
+}
+
+.statsBar {
+  display: flex;
+  justify-content: space-around;
+  padding: 44px 16px 12px;
+  background: #f7f7f7;
+  font-size: 12px;
+  font-weight: 600;
+  color: #111111;
+  border-radius: 0 0 16px 16px;
+  margin: 0 8px 8px;
+}
+
+.cardArea {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.kanaCard {
+  font-size: 96px;
+  font-weight: 300;
+  color: #111111;
+}
+
+.choiceGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  padding: 0 12px 20px;
+}
+
+.choice {
+  background: #f2f2f7;
+  border-radius: 14px;
+  padding: 14px 8px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  color: #111111;
+}
+
+.correctChoice {
+  background: #34c75920;
+  color: #34c759;
+}
+
+@media (max-width: 800px) {
+  .section {
+    padding: 72px 24px;
+  }
+
+  .inner {
+    grid-template-columns: 1fr;
+    gap: 48px;
+  }
+}

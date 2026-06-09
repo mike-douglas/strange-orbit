@@ -1,0 +1,99 @@
+.section {
+  padding: 120px 40px;
+  background: #ffffff;
+  text-align: center;
+}
+
+.inner {
+  max-width: 640px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.kanaDisplay {
+  display: flex;
+  align-items: flex-end;
+  gap: 4px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.kana {
+  font-size: 48px;
+  font-weight: 300;
+  color: #111111;
+  line-height: 1;
+}
+
+.kanaReading {
+  font-size: 10px;
+  color: #cccccc;
+  font-weight: 500;
+  margin-bottom: 6px;
+  letter-spacing: 0.3px;
+}
+
+.translation {
+  font-size: 13px;
+  color: #aaaaaa;
+  letter-spacing: 0.5px;
+  font-weight: 500;
+}
+
+.heading {
+  font-size: clamp(40px, 7vw, 72px);
+  font-weight: 800;
+  letter-spacing: -2.5px;
+  line-height: 1.0;
+  color: #111111;
+  margin-top: 8px;
+}
+
+.body {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #666666;
+  max-width: 480px;
+}
+
+.actions {
+  margin-top: 8px;
+}
+
+.appStoreBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 16px 36px;
+  background: #111111;
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: 700;
+  border-radius: 9999px;
+  text-decoration: none;
+  transition: opacity 0.15s ease;
+}
+
+.appStoreBtn:hover {
+  opacity: 0.8;
+}
+
+.tipNote {
+  font-size: 13px;
+  color: #aaaaaa;
+  line-height: 1.5;
+  max-width: 380px;
+}
+
+@media (max-width: 600px) {
+  .section {
+    padding: 80px 24px;
+  }
+
+  .kana {
+    font-size: 36px;
+  }
+}

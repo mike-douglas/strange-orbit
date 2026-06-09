@@ -1,0 +1,18 @@
+/* Chatto landing page — scoped base styles */
+
+.chatto *,
+.chatto *::before,
+.chatto *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.chatto {
+  font-family: "SF Pro Display", "SF Pro Text", -apple-system, BlinkMacSystemFont,
+    "Inter", "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background-color: #ffffff;
+  color: #111111;
+  overflow-x: hidden;
+}

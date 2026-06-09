@@ -1,0 +1,151 @@
+.section {
+  padding: 100px 40px;
+  background: #111111;
+  color: #ffffff;
+}
+
+.inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 80px;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.sectionLabel {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: #666666;
+}
+
+.heading {
+  font-size: clamp(30px, 4vw, 48px);
+  font-weight: 800;
+  letter-spacing: -1.5px;
+  line-height: 1.1;
+  color: #ffffff;
+}
+
+.body {
+  font-size: 17px;
+  line-height: 1.65;
+  color: #888888;
+}
+
+.statCards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.statCard {
+  background: #1c1c1e;
+  border-radius: 16px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.statNum {
+  font-size: 36px;
+  font-weight: 800;
+  color: #4ecba0;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+
+.statLabel {
+  font-size: 13px;
+  color: #666666;
+  font-weight: 500;
+}
+
+/* Kana grid card */
+.gridArea {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+}
+
+.gridCard {
+  background: #1c1c1e;
+  border-radius: 20px;
+  padding: 24px;
+  width: 100%;
+  max-width: 380px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.gridHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.gridTitle {
+  font-size: 15px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.gridProgress {
+  font-size: 12px;
+  color: #4ecba0;
+  font-weight: 600;
+}
+
+.kanaGrid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 6px;
+}
+
+.kanaCell {
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #2c2c2e;
+  border-radius: 10px;
+  font-size: 16px;
+  color: #555555;
+  font-weight: 400;
+}
+
+.mastered {
+  background: #4ecba022;
+  color: #4ecba0;
+}
+
+.gridFooter {
+  padding-top: 4px;
+}
+
+.lockedNote {
+  font-size: 12px;
+  color: #555555;
+}
+
+@media (max-width: 800px) {
+  .section {
+    padding: 72px 24px;
+  }
+
+  .inner {
+    grid-template-columns: 1fr;
+    gap: 48px;
+  }
+}
