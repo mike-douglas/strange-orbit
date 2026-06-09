@@ -22,8 +22,8 @@ export default function QuizFeature() {
           </h2>
           <p className={styles.body}>
             Before you can type a character, you need to know it. Quiz mode builds
-            that foundation with multiple-choice flashcards — fast, focused, and
-            deliberately challenging.
+            that foundation with multiple-choice flashcards. The wrong answers are
+            chosen from visually similar characters, so you have to really look.
           </p>
           <div className={styles.highlights}>
             <div className={styles.highlight}>
@@ -40,7 +40,7 @@ export default function QuizFeature() {
                 <span className={styles.arrow}>→</span>
                 <span>ツ</span>
               </div>
-              <p>The characters that trip everyone up — Chatto makes sure you learn the difference.</p>
+              <p>These are the ones that trip most people up, and Chatto makes sure you get them sorted.</p>
             </div>
           </div>
           <p className={styles.caption}>

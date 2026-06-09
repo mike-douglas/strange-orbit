@@ -23,7 +23,7 @@ export default function Hero() {
         </h1>
         <p className={styles.subhead}>
           Chatto teaches kana recognition and keyboard typing together.
-          Two skills, one app — the way you&apos;d actually use Japanese.
+          Learn to read kana and type it on a real Japanese keyboard, all in one app.
         </p>
         <div className={styles.actions}>
           <a id="download" href={APP_STORE_URL} className={styles.appStore} target="_blank" rel="noopener noreferrer">

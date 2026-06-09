@@ -18,9 +18,8 @@ export default function TwoModes() {
           Most apps stop at recognition.<br />Chatto doesn&apos;t.
         </h2>
         <p className={styles.body}>
-          Seeing あ and knowing it&apos;s &ldquo;a&rdquo; is one skill. Typing あ on a
-          Japanese keyboard is another. They reinforce each other — and you need both
-          to actually use Japanese.
+          Most apps teach you to recognize kana, but stop there. Chatto also
+          has you type on a real Japanese keyboard, so both skills grow together.
         </p>
 
         <div className={styles.modes}>
@@ -35,12 +34,12 @@ export default function TwoModes() {
               <p className={styles.modeDesc}>
                 See a kana character. Pick the correct reading from four options. Wrong
                 answers are chosen from visually similar characters so you learn the real
-                differences — not just elimination.
+                differences, not just luck or process of elimination.
               </p>
               <ul className={styles.modeFeatures}>
                 <li>Multiple-choice flashcards</li>
                 <li>Bidirectional: kana → romaji and romaji → kana</li>
-                <li>Smart distractors — あ/お, シ/ツ, ソ/ン</li>
+                <li>Smart distractors: あ/お, シ/ツ, ソ/ン</li>
                 <li>SRS weighting within each session</li>
               </ul>
             </div>
@@ -56,13 +55,13 @@ export default function TwoModes() {
               <h3 className={styles.modeTitle}>Type Like You Text</h3>
               <p className={styles.modeDesc}>
                 Sensei prompts you with a romaji reading. You type the kana on your
-                actual Japanese keyboard — the same way you&apos;d message a friend in Japan.
+                actual Japanese keyboard, same as you would texting someone in Japan.
                 Exact match, no shortcuts.
               </p>
               <ul className={styles.modeFeatures}>
                 <li>iMessage-style conversation UI</li>
                 <li>Real Japanese keyboard required</li>
-                <li>Hints after 8 seconds — no penalty</li>
+                <li>Hints after 8 seconds, no penalty</li>
                 <li>Response-time records ⚡</li>
               </ul>
             </div>

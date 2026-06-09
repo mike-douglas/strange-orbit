@@ -11,23 +11,23 @@ export default function ChatFeature() {
             Your sensei is waiting.<br />Type your answer.
           </h2>
           <p className={styles.body}>
-            Chatto&apos;s chat screen looks and feels like iMessage — because the goal is
-            for typing Japanese to feel natural, not academic. Sensei gives you a
-            romaji prompt. You type the kana. Exact match, every time.
+            Chatto&apos;s chat screen looks and feels like iMessage, so typing Japanese
+            feels more like texting than studying. Sensei sends you a romaji prompt,
+            you type the kana, and the conversation keeps going.
           </p>
           <div className={styles.features}>
             <div className={styles.feature}>
               <span className={styles.featureIcon}>💬</span>
               <div>
                 <strong>Conversation-first UI</strong>
-                <p>Prompts come as messages. Your answers go right back. The rhythm of real texting.</p>
+                <p>Prompts come in as messages, and your answers go right back, with the rhythm of a real conversation.</p>
               </div>
             </div>
             <div className={styles.feature}>
               <span className={styles.featureIcon}>🔥</span>
               <div>
                 <strong>Streak &amp; accuracy tracking</strong>
-                <p>A floating stats bar shows your streak, accuracy, and progress — updated after every answer.</p>
+                <p>A floating stats bar keeps track of your streak, accuracy, and progress, updating after every answer.</p>
               </div>
             </div>
             <div className={styles.feature}>
@@ -41,7 +41,7 @@ export default function ChatFeature() {
               <span className={styles.featureIcon}>🤫</span>
               <div>
                 <strong>Hints, no penalty</strong>
-                <p>Stuck for 8 seconds? A hint appears. Use it — the goal is learning, not failing.</p>
+                <p>If you&apos;re stuck for 8 seconds, a hint appears with no penalty. Learning the character is the point, not struggling through it.</p>
               </div>
             </div>
           </div>

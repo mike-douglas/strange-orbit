@@ -38,7 +38,7 @@ export default function CTA() {
         </div>
 
         <p className={styles.tipNote}>
-          All lessons are free. If you&apos;d like to support development, there&apos;s a tip jar inside — no pressure at all.
+          All lessons are free, and if you want to support development, there&apos;s a tip jar inside the app.
         </p>
       </div>
     </section>

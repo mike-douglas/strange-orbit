@@ -23,8 +23,8 @@ export default function ProgressSection() {
           </h2>
           <p className={styles.body}>
             Start with the 46 base hiragana. As your accuracy climbs, the voiced
-            dakuten characters unlock — が, ざ, だ, ば — and your deck grows. Both
-            modes count toward mastery.
+            voiced dakuten characters like が, ざ, だ, and ば start unlocking too,
+            and your deck keeps growing from there. Both modes count toward your progress.
           </p>
           <div className={styles.statCards}>
             <div className={styles.statCard}>
